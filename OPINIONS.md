@@ -55,3 +55,30 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - Fully reusable orbital rocket is the holy grail for multiplanetary life ("a fully and rapidly reusable orbital rocket has the potential to drop the cost of access to space by a factor of 1,000." — Ron Baron 2022).
 - Reusable rockets only barely possible on Earth — extreme difficulty setting ("If this was a video game, the setting is an extreme difficulty." — Ron Baron 2022).
 
+## Longform batch3 (2026-09-10)
+
+- Civilization’s long-run trajectory is binary: extinction or multiplanetary expansion ("Those are the two options." — Khan Academy 2013).
+- Before committing years, he wants success inside the envelope of outcomes ("it’s desirable to figure out if success is at least one of the possibilities." — Khan Academy 2013).
+- Exiting fossil fuels is inevitable; the only question is how fast ("The question is really when do we exit the era, not if." — Paris Sorbonne 2015).
+- Climate inaction worst case is displacement/destruction beyond all wars combined ("The worst case however is more displacement and destruction than all the wars in history combined." — Paris Sorbonne 2015).
+- Market rules currently “massively incent” bad outcomes; incentives dominate behavior ("Whatever you incent will happen." — Paris Sorbonne 2015).
+- Lithium is extremely common; battery storage won’t be constrained by lithium scarcity ("There definitely won't be a lithium constraint on energy storage for batteries." — Paris Sorbonne 2015).
+- Useful work doesn’t need to “change the world”; small good at scale counts ("Stuff doesn’t need to change the world, just to be good." — YC 2016).
+- AI power should be democratized; concentration creates instability and misuse risk ("we achieve democratization of AI technology" — YC 2016).
+- Multiplanet future is a choice; he pushes “spacefaring civilization” as preferred branch ("We are faced with a choice: Which future do you want?" — Starship 2019).
+- Sees pandemic coverage as appetite for panic ("It's almost like people really wanted a panic." — JRE #1470).
+- Treats climate trajectory as an insane experiment (non-technical framing) ("Running this climate experiment is insane" — Battery Day 2020).
+- Brain problems are near-universal with time; implants are positioned as fixable circuitry ("almost everyone, over time, will develop brain and spine problems." — Neuralink 2020).
+- Memory backup/restore and replay becomes plausible in a full neural interface future ("you will be able to save and replay memories." — Neuralink 2020 Q&A).
+- Government should act like a referee, not a player ("the role of government should be that of like a referee, but not a player on the field." — WSJ 2021).
+- Population decline is a primary civilizational risk; he predicts crumble if births don’t rise ("If people don’t have more children, civilization is going to crumble. Mark my words." — WSJ 2021).
+- Bought Twitter to save 3–5 years versus building from scratch (time-value obsession) ("accelerate progress versus creating something from scratch by 3 to 5 years." — WGS 2023).
+- Community Notes as “competition for truth” (not authority) for information correction ("a competition for truth." — WGS 2023).
+- Rejects resource-collapse panic; claims desalination is cheap and water isn’t the limiter ("Desalination is absurdly cheap." — Bill Maher 2023).
+- Sustainable energy transition is feasible without austerity; abundance is compatible ("there is a clear path to a sustainable energy Earth." — Investor Day 2023).
+- Abundance framing: sustainability does not require freezing in the dark ("It doesn’t require us to be austere" — Investor Day 2023).
+
+### Contested (batch3 — both sides retained in pending ledger; not collapsed)
+- YC 2016 progress vs effort: "It only gets better if smart people work like crazy to make it better." (contested vs fatalism / existing optimism frames).
+- Battery Day / manufacturing hardness: "the hardest thing is scaling production" and "the difficulty of designing the machine that makes the machine is vastly harder than the machine itself" (contested overlap with Pioneers/Ron Baron factory-harder frames — keep distinct phrasing).
+- WGS 2023 regulation immortality: "Rules and regulations are immortal; they don’t die." (contested vs TED 2022 support for AI regulatory agency — keep both).
