@@ -56,3 +56,25 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 10. "I’d rather be optimistic and wrong than pessimistic and right." — JRE #1169, 2018-09-07 (https://sonix.ai/resources/full-transcript-joe-rogan-experience-elon-musk/)
 11. "People may think that the thinking part of themselves is in charge, but it’s mostly their limbic system that’s in charge." — JRE #1169, 2018-09-07 (https://sonix.ai/resources/full-transcript-joe-rogan-experience-elon-musk/)
 12. "Then I say, sir, that you don't know what you're talking about." — BBC James Clayton, 2023-04-11 (https://www.rev.com/transcripts/elon-musk-interview-with-the-bbc-4-11-23-transcript)
+
+### Longform spoken
+
+### Longform spoken (batch2 2026-09-10)
+
+1. "life cannot simply be about sort of, solving one miserable problem after another." — TED Gigafactory TX, 2022-04-06 (https://ytscribe.com/v/YRvf00NooN8)
+2. "if you want the future to be good, you must make it so. Take action to make it good. And it will be." — TED 2022 closing advice to young people (https://ytscribe.com/v/YRvf00NooN8)
+3. "the monetary system is a series of heterogeneous databases that are not real-time" — CodeCon 2021 (https://elonmuskinterviews.wordpress.com/2021/10/07/codecon-2021-english/)
+4. "You cannot sue your way to the Moon, no matter how good your lawyers are." — CodeCon 2021 (https://elonmuskinterviews.wordpress.com/2021/10/07/codecon-2021-english/)
+5. "Time is the ultimate currency, yes. No matter what resources you have, you can't wind back the clock." — CodeCon 2021 Twitter segment (https://elonmuskinterviews.wordpress.com/2021/10/07/codecon-2021-english/)
+6. "born on Earth, died on Mars" — Axel Springer Award 2020-12-01 (https://elonmuskinterviews.wordpress.com/2020/12/11/axel-springer-award-2020/)
+7. "the prime directive is 'don't crash'." — Tesla AI Day 2021 Q&A (https://elonmuskinterviews.wordpress.com/2021/08/31/tesla-ai-day-the-presentation-i/)
+8. "Even if it's a UFO that crash-landed on the highway – still don't hit it." — Tesla AI Day 2021 (https://elonmuskinterviews.wordpress.com/2021/08/31/tesla-ai-day-the-presentation-i/)
+9. "If you ask the wrong question, the right answer is impossible." — Tesla shareholder meeting 2024-06 (https://www.teslarati.com/tesla-2024-annual-shareholder-meeting-transcript/)
+10. "I think it's a real weakness to want to be liked, a real weakness." — DealBook Summit 2023-11-29 (https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript)
+11. "Innovation is not the problem. Execution is the problem." — DealBook 2023 (https://www.rev.com/transcripts/dealbook-summit-2023-elon-musk-interview-transcript)
+12. "test what you fly" — Senate 2014 (https://www.appropriations.senate.gov/imo/media/doc/hearings/Musk%20Statement.pdf)
+13. "starting a company is like eating glass and staring into the abyss." — Ron Baron Conference 2022 (https://elonmuskinterviews.wordpress.com/2023/01/13/ron-baron/)
+14. "If you need encouragement, don't start a company." — Ron Baron 2022 (https://elonmuskinterviews.wordpress.com/2023/01/13/ron-baron/)
+15. "step two is to delete the part or delete the process step." — Ron Baron 2022 (https://elonmuskinterviews.wordpress.com/2023/01/13/ron-baron/)
+16. "I just slept on the floor under my desk so that during shift change, the entire team could see me." — Ron Baron 2022 (https://elonmuskinterviews.wordpress.com/2023/01/13/ron-baron/)
+
