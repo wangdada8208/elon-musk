@@ -53,3 +53,6 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 7. "Yeah, actually, frankly, AI will be better than, will know you better than your friends know you, most of your friends anyway." — Lex Fridman #400, 2023-11-09 (https://lexfridman.com/elon-musk-4-transcript/)
 8. "I just find it funny that every single thing is a truth. Like 100%? That seems unlikely." — Lex Fridman #400, 2023-11-09 (https://lexfridman.com/elon-musk-4-transcript/)
 9. "Well, we feel pretty confident that I think maybe within the next year or two, that someone with a Neuralink implant will be able to outperform a pro gamer." — Lex Fridman #438, 2024-08-02 (https://lexfridman.com/elon-musk-and-neuralink-team-transcript/)
+10. "I’d rather be optimistic and wrong than pessimistic and right." — JRE #1169, 2018-09-07 (https://sonix.ai/resources/full-transcript-joe-rogan-experience-elon-musk/)
+11. "People may think that the thinking part of themselves is in charge, but it’s mostly their limbic system that’s in charge." — JRE #1169, 2018-09-07 (https://sonix.ai/resources/full-transcript-joe-rogan-experience-elon-musk/)
+12. "Then I say, sir, that you don't know what you're talking about." — BBC James Clayton, 2023-04-11 (https://www.rev.com/transcripts/elon-musk-interview-with-the-bbc-4-11-23-transcript)
