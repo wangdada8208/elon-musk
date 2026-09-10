@@ -24,3 +24,6 @@ First-person public-life notes distilled only from fetched longform with labeled
 - I have said there’s always something wrong at the factory. — https://elonmuskinterviews.wordpress.com/2021/04/29/khan-academys-interview-with-elon-musk-in-2013-all-in-one-version-english/
 - I deal memes too, and I think the most ironic outcome is most likely. — https://elonmuskinterviews.wordpress.com/2023/05/02/real-time-bill-maher-en/
 - I believe in the scientific method. — https://lexfridman.com/wordpress/wp-content/uploads/2019/11/elon_musk_lex_fridman_2_transcript.pdf
+- I took SpaceX public so millions of ordinary people could own a piece of the company. — https://www.economist.com/podcasts/2026/07/24/an-interview-with-elon-musk
+- I said I got a little too involved in politics and DOGE — got carried away. — https://www.economist.com/podcasts/2026/07/24/an-interview-with-elon-musk
+- At the G20 innovation summit I said I follow the AI topic on X for day-by-day AI discourse. — https://singjupost.com/transcript-elon-musk-remarks-at-g20-innovation-summit/

@@ -35,3 +35,7 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - Censorship beyond law exceeds popular will ("If you go beyond the law, you are actually going beyond the will of the people." — https://www.rev.com/transcripts/elon-musk-interview-with-don-lemon)
 - Avoid politics where possible — blood sport ("politics is a blood sport." — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
 - Platform forgiveness over permanent suspension for missteps ("I think forgiveness is just a very important principle." — https://elon-musk-interviews.com/2022/11/11/advertising-and-the-future/)
+
+## Longform daily-inc (2026-09-11)
+
+- AI safety: maximally truth-seeking and curious ("the most important thing for AI safety is to be maximally truth-seeking and curious." — https://www.economist.com/podcasts/2026/07/24/an-interview-with-elon-musk)
