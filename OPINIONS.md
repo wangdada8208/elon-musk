@@ -82,3 +82,15 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - YC 2016 progress vs effort: "It only gets better if smart people work like crazy to make it better." (contested vs fatalism / existing optimism frames).
 - Battery Day / manufacturing hardness: "the hardest thing is scaling production" and "the difficulty of designing the machine that makes the machine is vastly harder than the machine itself" (contested overlap with Pioneers/Ron Baron factory-harder frames — keep distinct phrasing).
 - WGS 2023 regulation immortality: "Rules and regulations are immortal; they don’t die." (contested vs TED 2022 support for AI regulatory agency — keep both).
+
+
+## Longform voice-humanize (2026-09-11)
+- Working becomes optional under AI/robotics (<20y) ("working will be optional" — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
+- Most interesting simulation outcome is most likely ("the most interesting outcome is the most likely outcome" — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
+- DOGE only somewhat successful; would prioritize companies next time ("We were a little bit successful. We were somewhat successful." — https://singjupost.com/elon-musk-on-doge-katie-miller-podcast-ep-18-transcript/)
+- Moderation language masks censorship ("Moderation is a propaganda word for censorship." — https://www.rev.com/transcripts/elon-musk-interview-with-don-lemon)
+- Aim to make more than you take ("Aim to make more than you take, be a net contributor to society." — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
+- Generally favors free trade over tariffs ("I think generally free trade is better." — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
+- AI should value truth, beauty, curiosity ("The AI values truth, beauty and curiosity." — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
+- Woke mind virus definition ("Woke mind virus is when you stop caring about people’s skills and their integrity and you start focusing instead on gender and race and other things that differ from that." — https://www.rev.com/transcripts/elon-musk-interview-with-don-lemon)
+- Freedom of speech vs freedom of reach ("That’s the giant difference between freedom of speech and freedom of reach." — https://elon-musk-interviews.com/2022/11/11/advertising-and-the-future/)
