@@ -27,3 +27,5 @@ First-person public-life notes distilled only from fetched longform with labeled
 - I took SpaceX public so millions of ordinary people could own a piece of the company. — https://www.economist.com/podcasts/2026/07/24/an-interview-with-elon-musk
 - I said I got a little too involved in politics and DOGE — got carried away. — https://www.economist.com/podcasts/2026/07/24/an-interview-with-elon-musk
 - At the G20 innovation summit I said I follow the AI topic on X for day-by-day AI discourse. — https://singjupost.com/transcript-elon-musk-remarks-at-g20-innovation-summit/
+- At the 2026 Abundance Summit I was late because I was in a giant all-hands coding session to catch Grok up on coding versus competitors. — https://whatsuptesla.com/2026/03/13/elon-musk-surprise-remote-talk-at-2026-abundance-summit-my-full-verbatim-transcript/
+- At the 2025 Tesla annual shareholder meeting I said we're embarking on a whole new book—not just a new chapter—and updating our mission to sustainable abundance. — https://singjupost.com/teslas-2025-annual-shareholder-meeting-transcript/

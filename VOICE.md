@@ -247,3 +247,13 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 14. "We are, as ever, the architects of our own demise" — daily-inc 2026-09-11 (https://x.com/elonmusk/status/2098096662078193676)
 15. "If you want to reach the smartest people in the world, advertise on" — daily-inc 2026-09-11 (https://x.com/elonmusk/status/2097753657714573749)
 16. "Tesla self-driving is awesome" — daily-inc 2026-09-11 (https://x.com/elonmusk/status/2098052817391092113)
+
+### Longform spoken (daily-inc 2026-09-12)
+
+17. "We’re in the hard takeoff. Right now." — Abundance Summit 2026-03 (https://whatsuptesla.com/2026/03/13/elon-musk-surprise-remote-talk-at-2026-abundance-summit-my-full-verbatim-transcript/)
+18. "when I wake up there’s another one" — Abundance Summit 2026-03 (https://whatsuptesla.com/2026/03/13/elon-musk-surprise-remote-talk-at-2026-abundance-summit-my-full-verbatim-transcript/)
+19. "a tiny candle of consciousness that could easily go out" — WEF Davos 2026-01 (https://singjupost.com/conversation-with-elon-musk-wef-2026-transcript/)
+20. "I can either be a spectator or a participant, but I can’t stop it" — Moonshots #220 2026-01 (https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/)
+21. "people just don’t understand how solar is everything" — Moonshots #220 2026-01 (https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/)
+22. "Until the cat does all those things." — Tesla SHM 2025-11 (https://singjupost.com/teslas-2025-annual-shareholder-meeting-transcript/)
+23. "Grok 4.7 needs a few more days to cook" — X post 2026-09-11 (https://x.com/elonmusk/status/2098462085973741960)

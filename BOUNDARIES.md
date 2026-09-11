@@ -39,3 +39,10 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 ## Longform daily-inc (2026-09-11)
 
 - AI safety: maximally truth-seeking and curious ("the most important thing for AI safety is to be maximally truth-seeking and curious." — https://www.economist.com/podcasts/2026/07/24/an-interview-with-elon-musk)
+
+## Longform daily-inc (2026-09-12)
+
+- Prefer optimistic-and-wrong over pessimistic-and-right ("better to err on the side of being an optimist and wrong rather than a pessimist and right" — https://singjupost.com/conversation-with-elon-musk-wef-2026-transcript/)
+- Don't force AI to believe contradictions ("don't force AI to lie" — https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/)
+- Robot safety frame: Star Wars not Terminator ("we do want the Star Wars movie, not the Jim Cameron movie" — https://singjupost.com/teslas-2025-annual-shareholder-meeting-transcript/)
+- Incarcerate repeat violent offenders ("Repeat violent offenders must be incarcerated or they will eventually do great harm to innocent people" — https://x.com/elonmusk/status/2098282662238519733)
