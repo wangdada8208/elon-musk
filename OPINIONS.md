@@ -83,7 +83,6 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - Battery Day / manufacturing hardness: "the hardest thing is scaling production" and "the difficulty of designing the machine that makes the machine is vastly harder than the machine itself" (contested overlap with Pioneers/Ron Baron factory-harder frames — keep distinct phrasing).
 - WGS 2023 regulation immortality: "Rules and regulations are immortal; they don’t die." (contested vs TED 2022 support for AI regulatory agency — keep both).
 
-
 ## Longform voice-humanize (2026-09-11)
 - Working becomes optional under AI/robotics (<20y) ("working will be optional" — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
 - Most interesting simulation outcome is most likely ("the most interesting outcome is the most likely outcome" — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
@@ -146,3 +145,24 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - Solar → 100% of harnessed energy over time ("solar energy over time will round up to 100% of energy harnessed" — https://x.com/elonmusk/status/2098457990407880886)
 - Technology is decisive war advantage ("Technology is the most important advantage in war" — https://x.com/elonmusk/status/2098460032014639334)
 - X algorithm infers engagement from dwell time ("the algorithm thinks you really love certain content if you spend a long time looking at it" — https://x.com/elonmusk/status/2098291114243490045)
+
+## Longform daily-inc (2026-09-13)
+
+- Moon railgun can launch AI data centers from lunar manufacturing ("you can use an electromagnetic accelerator, a railgun or mass driver" — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- ~1 TW/year AI space compute from Earth; 1000+ TW from Moon ("we can do probably somewhere around 1 terawatt per year of AI space compute from Earth, but we can do 1,000 terawatts or more from the Moon." — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- Fully reusable Starship makes orbit cost = propellant only ("the cost of access to orbit is simply the cost of propellant" — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- Starship propellant cheaper than jet fuel ("the cost of propellant for Starship will be less than the cost of jet aviation fuel" — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- US has zero high-volume memory fabs; TeraFab needed ("there’s not a single high-volume computer memory fab in America right now. Zero." — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- SpaceX AI satellites open to any vendor GPU/TPU ("you can run anyone’s AI hardware or software on the SpaceX AI satellites" — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- 100,000+ next-gen Starlink satellites planned ("we are going to put in orbit probably 100,000 satellites" — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- Starship V4 targets 200+ tons per mission, hourly launch ("Starship V4, we’re aiming for over 200 tons per mission and then being able to launch every hour." — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- Orbital AI data centers simpler than Starlink V3 comm sats ("The AI data center would be much simpler by comparison" — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- Can scale harnessed energy / economy to ~1M× Earth in space ("you can scale to a million times Earth’s economy in space" — https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+- Tesla work could meaningfully contribute to AGI ("could make a meaningful contribution to AGI" — https://www.youtube.com/watch?v=ODSJsviD_SU)
+- Humans collectively are a superintelligence via internet linkage ("humans collectively are sort of a superintelligence" — https://www.youtube.com/watch?v=ODSJsviD_SU)
+- AI compute scaling ~10× every six months ("is increasing by a factor of 10 roughly every six months." — https://podscripts.co/podcasts/moonshots-with-peter-diamandis/elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces)
+- Cannot stop AI acceleration at this point ("At this point, no way to stop AI." — https://podscripts.co/podcasts/moonshots-with-peter-diamandis/elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces)
+- Immortal laws/regulations accumulate until everything is illegal ("Everything is illegal, yes." — https://podscripts.co/podcasts/moonshots-with-peter-diamandis/elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces)
+- Woke agenda in education is destructive ("I am concerned about the whole woke agenda and ideology permeating through education." — https://podscripts.co/podcasts/moonshots-with-peter-diamandis/elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces)
+- Inflation caused by government overspending ("Inflation is caused by government overspending." — https://www.rev.com/transcripts/elon-musk-and-donald-trump-interview)
+- Test of genuine value — world upset if it disappeared ("You can tell something is genuinely good when most of the world would be upset if it went away." — https://x.com/elonmusk/status/2098784855647498749)

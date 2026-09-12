@@ -124,7 +124,6 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 34. "anyone who is an investor in Earth." — Investor Day 2023 (https://elonmuskinterviews.wordpress.com/2023/04/28/master-plan-3/)
 35. "Optimism that is based on actual physics and real calculations." — Investor Day 2023 (https://elonmuskinterviews.wordpress.com/2023/04/28/master-plan-3/)
 
-
 ### Longform spoken (voice-humanize 2026-09-11)
 
 1. "If I find an irrational fear, I squelch it." — Katie Miller Podcast 2025-12 (https://singjupost.com/elon-musk-on-doge-katie-miller-podcast-ep-18-transcript/)
@@ -257,3 +256,12 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 21. "people just don’t understand how solar is everything" — Moonshots #220 2026-01 (https://singjupost.com/moonshots-220-w-elon-musk-on-agi-abundance-and-the-future-of-humanity-transcript/)
 22. "Until the cat does all those things." — Tesla SHM 2025-11 (https://singjupost.com/teslas-2025-annual-shareholder-meeting-transcript/)
 23. "Grok 4.7 needs a few more days to cook" — X post 2026-09-11 (https://x.com/elonmusk/status/2098462085973741960)
+
+### Longform spoken (daily-inc 2026-09-13)
+
+24. "it also matters if they have a good heart" — JPMorgan IPO roadshow 2026-06 (https://singjupost.com/jp-morgans-jamie-dimon-interviews-elon-musk-transcript/)
+25. "the internet was like humanity acquiring a nervous system" — Tesla AI Day 2022-09 (https://www.youtube.com/watch?v=ODSJsviD_SU)
+26. "if we are in a simulation, the way to keep the simulation going is to keep being interesting." — Moonshots EP79 2024-01 (https://podscripts.co/podcasts/moonshots-with-peter-diamandis/elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces)
+27. "World War Z zombie apocalypse" — Musk–Trump X Spaces 2024-08 (https://www.rev.com/transcripts/elon-musk-and-donald-trump-interview)
+28. "Another AI attack" — X post 2026-09-12 (https://x.com/elonmusk/status/2098789559093858580)
+29. "I guess Grok is not yet a preferred choice in this arena." — X post 2026-09-12 (https://x.com/elonmusk/status/2098579651429810534)
