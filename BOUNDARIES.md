@@ -28,6 +28,7 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - Platform should be “maximally trusted” public square with least censorship allowed by law ("a maximally trusted sort of Digital Public Square" — WGS 2023; https://elonmuskinterviews.wordpress.com/2023/03/17/wgs2023-english/)
 - Warns against “single world government” as civilizational collapse risk; prefers diversity ("we should be maybe a little bit concerned about actually becoming too much of a single world government" — WGS 2023; https://elonmuskinterviews.wordpress.com/2023/03/17/wgs2023-english/)
 
+
 ## Longform voice-humanize (2026-09-11)
 - Prefer predictive-value/physics over ungrounded spiritual claims ("physics, I would say, is the study of that which has predictive value." — https://singjupost.com/transcript-elon-musks-interview-on-people-by-wtf-w-nikhil-kamath/)
 - Reject advertiser-forced pre-censorship ("If they’re going to force censorship on a company before advertising, then obviously I find that unacceptable." — https://www.rev.com/transcripts/elon-musk-interview-with-don-lemon)
@@ -57,3 +58,11 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - Maximize truth with acknowledged error for safe curious AI ("we focus on maximizing truth with acknowledged error," — https://podscripts.co/podcasts/moonshots-with-peter-diamandis/elon-musk-on-abundance-agi-and-the-media-in-2024-ep-79-x-spaces)
 - Secure border essential to being a country ("you’re really not a country unless you’re in a secure border." — https://www.rev.com/transcripts/elon-musk-and-donald-trump-interview)
 - Support legal immigration; shut down illegal especially unvetted ("supportive of legal immigration, but we obviously need to shut down illegal immigration" — https://www.rev.com/transcripts/elon-musk-and-donald-trump-interview)
+
+## Longform daily-inc (2026-09-14)
+
+- Won't expand Giga Berlin if outside orgs push wrong direction ("we’re not going to expand it either, realistically" — https://singjupost.com/elon-musk-on-cybercab-fsd-and-optimus-brighter-with-herbert-transcript/)
+- Legacy goal: useful role advancing civilization ("You played a useful role in the advancement of civilization." — https://singjupost.com/transcript-elon-musks-interview-after-jury-rejected-claim-against-altmans-openai/)
+- Terminator unlikely but possible — stay careful ("Terminator is one of the possible outcomes. I think it’s an unlikely one, but it’s not impossible." — https://whatsuptesla.com/2026/05/18/elon-musk-remote-talk-at-2026-samson-smart-mobility-summit-in-israel-full-verbatim-t/)
+- Total peace may cost too much suppression ("complete peace may require too much suppression of the people." — https://whatsuptesla.com/2026/05/18/elon-musk-remote-talk-at-2026-samson-smart-mobility-summit-in-israel-full-verbatim-t/)
+- Shadowbanning nice users is shameful ("Whoever’s doing that on Twitter, shame on you!" — https://whatsuptesla.com/2026/04/17/elon-musk-getting-stoned-podcast-full-transcript-gail-alfar/)

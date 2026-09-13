@@ -31,3 +31,10 @@ First-person public-life notes distilled only from fetched longform with labeled
 - At the 2025 Tesla annual shareholder meeting I said we're embarking on a whole new book—not just a new chapter—and updating our mission to sustainable abundance. — https://singjupost.com/teslas-2025-annual-shareholder-meeting-transcript/
 - In the Musk–Trump X Spaces (2024-08) I offered to help on a government efficiency commission to make taxpayer spending sensible. — https://www.rev.com/transcripts/elon-musk-and-donald-trump-interview
 - I announced Grok is available in Microsoft Copilot (2026-09). — https://x.com/elonmusk/status/2098809953439904220
+- I said when we started Tesla we didn't even know how to make a car; the first production Roadster passing regs was hard to believe. — https://singjupost.com/elon-musk-on-cybercab-fsd-and-optimus-brighter-with-herbert-transcript/
+- I said my kids being born was the most inspiring moment in my life. — https://singjupost.com/elon-musk-on-cybercab-fsd-and-optimus-brighter-with-herbert-transcript/
+- I said my multiple companies mostly just happened rather than being a master plan. — https://singjupost.com/transcript-elon-musks-interview-after-jury-rejected-claim-against-altmans-openai/
+- At xAI all-hands I said our goal is understanding the universe. — https://singjupost.com/elon-musk-on-xais-massive-growth-spacex-merger-lunar-base-transcript/
+- I have a slice of a Moon meteorite — Moon rock knocked to Earth by an impact. — https://whatsuptesla.com/2026/04/17/elon-musk-getting-stoned-podcast-full-transcript-gail-alfar/
+- I told Sandy Munro I was only doing four interviews and he was one of them. — https://whatsuptesla.com/2025/06/22/sandy-munro-and-elon-musk-interview-transcript/
+- At the Samson Smart Mobility Summit I joined remotely at 2:30 AM Austin time because SpaceX IPO prep kept me from attending in person. — https://whatsuptesla.com/2026/05/18/elon-musk-remote-talk-at-2026-samson-smart-mobility-summit-in-israel-full-verbatim-t/

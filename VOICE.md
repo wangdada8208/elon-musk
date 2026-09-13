@@ -124,6 +124,7 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 34. "anyone who is an investor in Earth." — Investor Day 2023 (https://elonmuskinterviews.wordpress.com/2023/04/28/master-plan-3/)
 35. "Optimism that is based on actual physics and real calculations." — Investor Day 2023 (https://elonmuskinterviews.wordpress.com/2023/04/28/master-plan-3/)
 
+
 ### Longform spoken (voice-humanize 2026-09-11)
 
 1. "If I find an irrational fear, I squelch it." — Katie Miller Podcast 2025-12 (https://singjupost.com/elon-musk-on-doge-katie-miller-podcast-ep-18-transcript/)
@@ -265,3 +266,19 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 27. "World War Z zombie apocalypse" — Musk–Trump X Spaces 2024-08 (https://www.rev.com/transcripts/elon-musk-and-donald-trump-interview)
 28. "Another AI attack" — X post 2026-09-12 (https://x.com/elonmusk/status/2098789559093858580)
 29. "I guess Grok is not yet a preferred choice in this arena." — X post 2026-09-12 (https://x.com/elonmusk/status/2098579651429810534)
+
+### Longform daily-inc (2026-09-14)
+
+1. "I think it’s like magic." — daily-inc 2026-09-14 (https://singjupost.com/elon-musk-on-cybercab-fsd-and-optimus-brighter-with-herbert-transcript/)
+2. "Dinosaurs are not around anymore." — daily-inc 2026-09-14 (https://singjupost.com/elon-musk-on-cybercab-fsd-and-optimus-brighter-with-herbert-transcript/)
+3. "never a dull moment." — daily-inc 2026-09-14 (https://singjupost.com/interview-elon-musk-on-spacex-plans-transcript/)
+4. "it’s not like space is going to get crowded. Space is enormous." — daily-inc 2026-09-14 (https://singjupost.com/interview-elon-musk-on-spacex-plans-transcript/)
+5. "speed of light moves pretty fast." — daily-inc 2026-09-14 (https://singjupost.com/interview-elon-musk-on-spacex-plans-transcript/)
+6. "I hope it’s nice to us, you know." — daily-inc 2026-09-14 (https://singjupost.com/transcript-elon-musks-interview-after-jury-rejected-claim-against-altmans-openai/)
+7. "You do like ranking things. It’s true." — daily-inc 2026-09-14 (https://singjupost.com/transcript-elon-musks-interview-after-jury-rejected-claim-against-altmans-openai/)
+8. "xAI is only two and a half years old, basically a toddler." — daily-inc 2026-09-14 (https://singjupost.com/elon-musk-on-xais-massive-growth-spacex-merger-lunar-base-transcript/)
+9. "This is Getting Stoned. It’s a podcast about gems and minerals and I am not your host." — daily-inc 2026-09-14 (https://whatsuptesla.com/2026/04/17/elon-musk-getting-stoned-podcast-full-transcript-gail-alfar/)
+10. "a humanoid robot would be better than R-2-D-2 and C-3PO combined times ten." — daily-inc 2026-09-14 (https://whatsuptesla.com/2025/11/19/full-transcript-elon-musk-jensen-huang-on-ai-factories-humanoid-robots-the-dawn-of-the-intelligence-age/)
+11. "Excitement guaranteed" — daily-inc 2026-09-14 (https://x.com/elonmusk/status/2098934344941252615)
+12. "It’s out of this world" — daily-inc 2026-09-14 (https://x.com/elonmusk/status/2098932480103309438)
+13. "It’s really just a philosophy of curiosity, I would call it." — Getting Stoned 2022-07 (https://whatsuptesla.com/2026/04/17/elon-musk-getting-stoned-podcast-full-transcript-gail-alfar/)
