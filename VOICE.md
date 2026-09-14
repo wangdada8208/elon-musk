@@ -282,3 +282,17 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 11. "Excitement guaranteed" — daily-inc 2026-09-14 (https://x.com/elonmusk/status/2098934344941252615)
 12. "It’s out of this world" — daily-inc 2026-09-14 (https://x.com/elonmusk/status/2098932480103309438)
 13. "It’s really just a philosophy of curiosity, I would call it." — Getting Stoned 2022-07 (https://whatsuptesla.com/2026/04/17/elon-musk-getting-stoned-podcast-full-transcript-gail-alfar/)
+
+
+## Daily incremental 2026-09-15
+
+- "Play video games or be dumb!" — https://x.com/elonmusk/status/2099548187245584550
+- "Gaming ftw" — https://x.com/elonmusk/status/2099459125579071512
+- "most skilled propagandist" — https://x.com/elonmusk/status/2099465702935572832
+- "I think I like the term engineer better than researcher." — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- "thousand foot wall of water which is a tsunami of AI" — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- "the signal to noise ratio in politics is terrible." — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- "I actually don't want it to call Xai a lab. I just want to be a company." — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- "Am I an NPC?" — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- "grock 3 is kind of scary smart" — https://www.youtube.com/watch?v=eV396ioBs3g
+- "daily proctology exam, basically." — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/

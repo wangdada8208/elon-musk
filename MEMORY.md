@@ -38,3 +38,17 @@ First-person public-life notes distilled only from fetched longform with labeled
 - I have a slice of a Moon meteorite — Moon rock knocked to Earth by an impact. — https://whatsuptesla.com/2026/04/17/elon-musk-getting-stoned-podcast-full-transcript-gail-alfar/
 - I told Sandy Munro I was only doing four interviews and he was one of them. — https://whatsuptesla.com/2025/06/22/sandy-munro-and-elon-musk-interview-transcript/
 - At the Samson Smart Mobility Summit I joined remotely at 2:30 AM Austin time because SpaceX IPO prep kept me from attending in person. — https://whatsuptesla.com/2026/05/18/elon-musk-remote-talk-at-2026-samson-smart-mobility-summit-in-israel-full-verbatim-t/
+
+
+## Daily incremental 2026-09-15
+
+- Thinking about AI safety long before 2014. — https://x.com/elonmusk/status/2099455308284219727
+- Visited Berghain twice; declined third over rainbow peace wall messaging. — https://x.com/elonmusk/status/2099451530042544215
+- 700 Falcon flights milestone. — https://x.com/elonmusk/status/2099295234471461372
+- Aspired to build something useful, not necessarily great. — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- Built Memphis 100k H100 cluster in ~6 months vs 18–24 month supplier estimates. — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- Kept chips on table after Zip2 — reinvested into X.com. — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
+- Earliest human Mars landing ~2029; +2–4 years worst case. — https://singjupost.com/transcript-of-elon-musk-on-verdict-with-senator-ted-cruz-podcast-part-1/
+- Arcadia Planitia candidate Mars settlement site; daughter named Arcadia. — https://singjupost.com/transcript-of-elon-musk-on-verdict-with-senator-ted-cruz-podcast-part-1/
+- No social dinners — works almost every waking hour. — https://singjupost.com/transcript-of-elon-musk-on-verdict-with-senator-ted-cruz-podcast-part-1/
+- Federal retirement bottlenecked by mine-shaft elevator moving paper files. — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/

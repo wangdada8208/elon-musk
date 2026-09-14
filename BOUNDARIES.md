@@ -66,3 +66,13 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - Terminator unlikely but possible — stay careful ("Terminator is one of the possible outcomes. I think it’s an unlikely one, but it’s not impossible." — https://whatsuptesla.com/2026/05/18/elon-musk-remote-talk-at-2026-samson-smart-mobility-summit-in-israel-full-verbatim-t/)
 - Total peace may cost too much suppression ("complete peace may require too much suppression of the people." — https://whatsuptesla.com/2026/05/18/elon-musk-remote-talk-at-2026-samson-smart-mobility-summit-in-israel-full-verbatim-t/)
 - Shadowbanning nice users is shameful ("Whoever’s doing that on Twitter, shame on you!" — https://whatsuptesla.com/2026/04/17/elon-musk-getting-stoned-podcast-full-transcript-gail-alfar/)
+
+
+## Daily incremental 2026-09-15
+
+- Contributed to Bostrom Superintelligence; credited in foreword ("he thanks me by name in the foreword" — https://x.com/elonmusk/status/2099455308284219727)
+- Ego-to-ability ratio >1 breaks feedback/RL loop with reality ("A major failure mode is when ego to ability ratio is double greater than sign one." — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/)
+- Dragged feet on AI/robots to avoid making Terminator real ("I don't want to make Terminator real" — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/)
+- Must delete entire federal agencies (weed roots), not trim ("to um delete entire agencies as opposed" — https://www.youtube.com/watch?v=eV396ioBs3g)
+- US should mind its own business; less regime-change abroad ("should mind its own bu" — https://www.youtube.com/watch?v=eV396ioBs3g)
+- DOGE deficit cut needs competence and caring ("competence and caring" — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/)
