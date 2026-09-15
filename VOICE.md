@@ -296,3 +296,17 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 - "Am I an NPC?" — https://singjupost.com/transcript-of-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful/
 - "grock 3 is kind of scary smart" — https://www.youtube.com/watch?v=eV396ioBs3g
 - "daily proctology exam, basically." — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/
+
+## Incremental 2026-09-16
+
+1. "Grok Bot watching Grok Bot. Tell me about yourself 😂" — X 2026-09 — https://x.com/elonmusk/status/2099919095692992742
+2. "Physics is a harsh judge" — X 2026-09 — https://x.com/elonmusk/status/2099739543360438774
+3. "4D-Chess" — X 2026-09 — https://x.com/elonmusk/status/2099737765260763348
+4. "instead of kind of grading your own homework" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+5. "that's what they say." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+6. "I'm going to rage for the machine." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+7. "the death rate remains consistent at 100%." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+8. "Because she's awesome." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+9. "that's some crazy 4D test" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+1. "Physics is the law, and everything else is a recommendation. I've seen people break the laws made by humans, but I've not seen anyone break the laws made by physics." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+2. "Physics is a harsh judge, and there's no fooling physics." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg

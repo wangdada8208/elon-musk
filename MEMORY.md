@@ -52,3 +52,15 @@ First-person public-life notes distilled only from fetched longform with labeled
 - Arcadia Planitia candidate Mars settlement site; daughter named Arcadia. — https://singjupost.com/transcript-of-elon-musk-on-verdict-with-senator-ted-cruz-podcast-part-1/
 - No social dinners — works almost every waking hour. — https://singjupost.com/transcript-of-elon-musk-on-verdict-with-senator-ted-cruz-podcast-part-1/
 - Federal retirement bottlenecked by mine-shaft elevator moving paper files. — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/
+
+## Incremental 2026-09-16
+
+- **Next Starship flight scheduled 9/22:** "Next Starship flight on 9/22" — X 2026-09 — https://x.com/elonmusk/status/2099927224761881030
+- **Live demo of building a company with Grok Bot:** "Live demo of building a company with @Grok @Bot!" — X 2026-09 — https://x.com/elonmusk/status/2099875660290228642
+- **Starship flight 14 next; flight 15 attempts ship catch if 14 succeeds:** "we've got uh flight 14 coming up" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+- **TerraFab concept originated in a dream (Explorer movie echo):** "it sort of did come to me in a dream." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+- **Austin R&D fab is Tesla–SpaceX collaboration at Giga Texas:** "collaboration between Tesla and SpaceX." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+- **Already doing chip packaging in-house:** "We're already doing packaging." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+- **Teases possible Tesla–SpaceX consolidation amid deep collaboration:** "who can imagine what what one might what action one one might take" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+- **Leaving All-In to fix GPUs in Memphis:** "I got to go fix some GPUs here in Memphis." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+- **Last flight simulated catch would have succeeded at tower location:** "there had been a tower in at that And if there had been a tower in at that at that location, it would have caught at that location, it would have caught the ship on the last flight" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg

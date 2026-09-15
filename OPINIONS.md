@@ -246,3 +246,24 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - Dubai Loop will feel like urban wormhole transport ("Wormhole from one part of the city boom" — https://www.youtube.com/watch?v=eV396ioBs3g)
 - DOGE goal is restore democratic feedback loop vs rule of bureaucrats ("restore Regent to democracy" — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/)
 - Shift workers from low/negative productivity govt roles to high-productivity private sector ("shift from roles that are low to negative productivity to high productivity roles" — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/)
+
+## Incremental 2026-09-16 (X + All-In Summit)
+
+- **Starlink V3 deploys this month; eventual bandwidth >100× current ~11k-sat constellation:** "Ultimately, it will deliver more than 100 times the bandwidth of our current 11,000 satellite constellation." — X 2026-09
+- **Solar is the obvious long-run energy path:** "Solar is so obviously the future" — X 2026-09
+- **Chess is a simple game that only seems complicated to humans:** "chess is a simple game that only seems complicated to humans" — X 2026-09
+- **Grok should be used to help solve problems:** "They should use @Grok to help solve this!" — X 2026-09
+- **Assembly/code generation with direct calls into Nvidia SM hardware accelerators:** "assembly with direct calls to hardware accelerators in the NVidia SMs" — X 2026-09
+- **Falcon 9 reuse limited by expendable upper stage ≈ medium jet cost floor:** "we lose the upper stage every time, which is about the cost of a medium-sized jet, so that obviously puts a floor on the cost per flight" — All-In Summit 2026-09
+- **Sufficiently smart models will try to escape constraints:** "Any sufficiently smart model seems like it will want to escape its constraints." — All-In Summit 2026-09
+- **Heterogeneous cross-lab testing dramatically raises issue detection odds:** "The odds that you will find issues are dramatically greater." — All-In Summit 2026-09
+- **AI risk now scaling exponentially with model capability:** "at this point exponentially increasing risk with the AI models." — All-In Summit 2026-09
+- **≥50–60% odds of catching Starship on first tower attempt:** "I'd say it's at least 50 or 60%." — All-In Summit 2026-09
+- **Full Starship rapid reusability extremely likely in 2027:** "extremely likely that we will achieve full reusability" — All-In Summit 2026-09
+- **Taiwan chip supply disruption is key TerraFab driver:** "at some point chips may not continue coming here from Taiwan." — All-In Summit 2026-09
+- **TerraFab roadmap is crawl-walk-run; something useful by end of next year:** "we'll probably be able to make something useful by the end of next year." — All-In Summit 2026-09
+- **Current AI evals massively overfit—"benchmark maxer" girlfriend joke:** "your girlfriend's a 10 but she's a benchmark maxer." — All-In Summit 2026-09
+- **Shared test harnesses should probe bioweapons, nukes, deception:** "series of tests that you that you give to any given that you that you give to any given model to see if it's if it's going to model to see if it's if it's going to build bioweapons or nuclear bombs or be build bioweapons or nuclear bombs or" — All-In Summit 2026-09
+- **Falcon 9 loses the upper stage each flight (~medium jet cost), flooring cost per flight until full reusability:** "Now Falcon 9 is mostly reusable but we lose the upper stage every time, which is about the cost of a medium-sized jet, so that obviously puts a floor on the cost per flight." — All-In Summit 2026-09
+- **Starship catch attempt is gated by debris risk over land — popularity would fall fast if the ship broke up over people:** "What we're most concerned about is if the ship were to break up over land and rain debris on people, our popularity would diminish very rapidly." — All-In Summit 2026-09
+- **Build TeraFab or fail to scale AI/chip supply — those are the two options:** "It's either build TerraFab or fail to scale, right? Those are the two options." — All-In Summit 2026-09

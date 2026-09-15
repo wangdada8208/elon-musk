@@ -76,3 +76,7 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - Must delete entire federal agencies (weed roots), not trim ("to um delete entire agencies as opposed" — https://www.youtube.com/watch?v=eV396ioBs3g)
 - US should mind its own business; less regime-change abroad ("should mind its own bu" — https://www.youtube.com/watch?v=eV396ioBs3g)
 - DOGE deficit cut needs competence and caring ("competence and caring" — https://singjupost.com/transcript-president-trump-elon-musk-speak-after-doge-order-signing/)
+
+## Incremental 2026-09-16
+
+- **Starship land-debris risk would crater public support:** "if the ship were to break up over land and rain debris on people, our popularity would diminish very rapidly" — All-In Summit 2026-09
