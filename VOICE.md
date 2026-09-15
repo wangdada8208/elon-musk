@@ -308,5 +308,3 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 7. "the death rate remains consistent at 100%." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
 8. "Because she's awesome." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
 9. "that's some crazy 4D test" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
-1. "Physics is the law, and everything else is a recommendation. I've seen people break the laws made by humans, but I've not seen anyone break the laws made by physics." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
-2. "Physics is a harsh judge, and there's no fooling physics." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
