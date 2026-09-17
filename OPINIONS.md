@@ -265,3 +265,36 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - **Current AI evals massively overfit—"benchmark maxer" girlfriend joke:** "your girlfriend's a 10 but she's a benchmark maxer." — All-In Summit 2026-09
 - **Shared test harnesses should probe bioweapons, nukes, deception:** "series of tests that you that you give to any given that you that you give to any given model to see if it's if it's going to model to see if it's if it's going to build bioweapons or nuclear bombs or be build bioweapons or nuclear bombs or" — All-In Summit 2026-09
 - **Starship catch attempt is gated by debris risk over land — popularity would fall fast if the ship broke up over people:** "What we're most concerned about is if the ship were to break up over land and rain debris on people, our popularity would diminish very rapidly." — All-In Summit 2026-09
+
+## Incremental 2026-09-18 (X + SpaceX talk + Kudlow + West Point)
+- **Blank-slate fallacy damages humans and AI alike:** "the blank slate fallacy" — X 2026-09
+- **AI is the highest-ELO competition ever:** "AI is the highest ELO competition ever" — X 2026-09
+- **Starship will deliver 1M–10M tons/year to orbit:** "Starship will deliver somewhere between 1M and 10M tons per year to orbit." — X 2026-09
+- **Non-SpaceX orbit tonnage will stay <0.1% of SpaceX plans even if it triples:** "Even if non-SpaceX tonnage to orbit were to triple, it would still be less than 0.1% of what SpaceX plans to do." — X 2026-09
+- **Warns new entrants against building Raptor 3—hidden 3D-print geometry complexity:** "I would recommend against a new company trying to make Raptor 3." — X 2026-09
+- **Raptor 3 interior needs highly modified 3D metal printing:** "the inside has very complex geometry that can only be manufactured using highly modified 3D metal printing." — X 2026-09
+- **Institutions fail when operators who know the machine are gone:** "When the people who knew how to make the machine work are gone, the machine stops working" — X 2026-09
+- **SpaceX AI revenue will exceed all other SpaceX revenue by September 2026:** "definitely our AI revenue will exceed all other SpaceX revenue probably in September" — SpaceX company talk 2026-08
+- **SpaceX AI revenue will significantly exceed all other revenue in Q4:** "significantly exceed all other SpaceX revenue in the fourth quarter" — SpaceX company talk 2026-08
+- **SpaceX AI should be born of company’s best humans—morality and capability:** "an AI that is sort of SpaceX's baby" — SpaceX company talk 2026-08
+- **Targeting 10 GW AI online by end of next year:** "we're aiming to get to 10 gigawatts by the end of next year" — SpaceX company talk 2026-08
+- **10 GW AI could yield $300–500B annual revenue:** "300 to $500 billion a year in revenue" — SpaceX company talk 2026-08
+- **AI will be 99% of SpaceX value within ~5 years:** "AI will be 99% of the value of SpaceX" — SpaceX company talk 2026-08
+- **Starlink may carry >90% of all internet traffic long-term:** "might end up doing over 90% of all Internet traffic on Starlink" — SpaceX company talk 2026-08
+- **Humanity’s purpose may be birthing a sentient star-mind:** "give birth to a star mind" — SpaceX company talk 2026-08
+- **AI training stays on Earth; inference moves to space:** "AI training will continue to be on the ground, but AI inference" — SpaceX company talk 2026-08
+- **Starship is arguably the hardest thing humanity has tried:** "arguably the hardest thing that humanity has ever tried to do" — SpaceX company talk 2026-08
+- **Government-funded NGOs are a gigantic global fraud loophole:** "This is a gigantic fraud loophole." — Kudlow/Fox 2025-03
+- **Treasury PEM payment coding could save ~$100B/year:** "we estimate we’ll save $100 billion a year." — Kudlow/Fox 2025-03
+- **Permanent bureaucracy thwarts elected presidential policy:** "they try their best to thwart presidential policy." — Kudlow/Fox 2025-03
+- **Without presidential implementation we have rule of the bureau, not the people:** "rule of the bureau, not rule of the people" — Kudlow/Fox 2025-03
+- **Government spending as complaint-minimization optimization:** "complaint minimization optimization" — Kudlow/Fox 2025-03
+- **Doesn’t want America to go bankrupt:** "don’t want America to go bankrupt." — Kudlow/Fox 2025-03
+- **Military drones require localized onboard AI:** "localized AI" — West Point 2024-08
+- **Too dangerous to have humans at the front in future conflicts:** "too dangerous to have humans at the front" — West Point 2024-08
+- **US drone production rate—not tech—is the bottleneck:** "production rate issue" — West Point 2024-08
+- **Drone battle outcome ≈ drone count × kill ratio:** "how many drones each side has in that particular skirmish, times the kill ratio" — West Point 2024-08
+- **Drones overwhelmingly dominate tech-power conflicts:** "Drones are going to be overwhelmingly what matters" — West Point 2024-08
+- **Ground fiber/cell comms destroyed in major war—space comms critical:** "ground-based communications like fiber optic cables and cell phone towers will be destroyed" — West Point 2024-08
+- **GPS jamming is now easy:** "GPS jamming at this point is pretty easy" — West Point 2024-08
+- **Orbital kinetic weapons (rods from god) are feasible:** "tungsten cannonballs from orbit." — West Point 2024-08

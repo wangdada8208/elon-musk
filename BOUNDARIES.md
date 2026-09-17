@@ -80,3 +80,10 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 ## Incremental 2026-09-16
 
 - **Starship land-debris risk would crater public support:** "if the ship were to break up over land and rain debris on people, our popularity would diminish very rapidly" — All-In Summit 2026-09
+
+## Incremental 2026-09-18
+- **SpaceX could move faster on Starship but optimizes for safety:** "but are optimizing for safety" — X 2026-09
+- **Will train Grok on the sum total of all SpaceX information:** "training Grok on the Sum total of all SpaceX information" — SpaceX company talk 2026-08
+- **We ultimately won’t control AI—but can instill values like a super-genius child:** "we won't ultimately be able to control the AI" — SpaceX company talk 2026-08
+- **DOGE method: follow the money:** "we just basically follow the money." — Kudlow/Fox 2025-03
+- **Building military drones is building Terminators—minimize that risk:** "when you’re making military drones, you are making Terminators." — West Point 2024-08

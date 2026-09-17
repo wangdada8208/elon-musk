@@ -64,3 +64,17 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **Teases possible Tesla–SpaceX consolidation amid deep collaboration:** "who can imagine what what one might what action one one might take" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
 - **Leaving All-In to fix GPUs in Memphis:** "I got to go fix some GPUs here in Memphis." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
 - **Last flight simulated catch would have succeeded at tower location:** "there had been a tower in at that And if there had been a tower in at that at that location, it would have caught at that location, it would have caught the ship on the last flight" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+
+## Incremental 2026-09-18
+- **Starlink V5 terminal entered production:** "Starlink V5 terminal is in production" — X 2026-09 — https://x.com/elonmusk/status/2100447103927353423
+- **Promotes Grok Build product:** "Grok Build" — X 2026-09 — https://x.com/elonmusk/status/2100083283757584858
+- **Mother Maye Musk book coming soon:** "My Mom’s book is coming out soon" — X 2026-09 — https://x.com/elonmusk/status/2100386414345236662
+- **New SpaceX documentary episode:** "New episode of @SpaceX documentary" — X 2026-09 — https://x.com/elonmusk/status/2100384403495293125
+- **Watch a company being built live with Grok Bot:** "Watch a company being built live with @Grok @Bot!" — X 2026-09 — https://x.com/elonmusk/status/2100296847344783441
+- **Promises SpaceX employees who want to go to Moon/Mars can go—party on the Moon:** "you have my word" — SpaceX company talk 2026-08 — https://www.youtube.com/watch?v=vRsUMqZItmw
+- **Plans quarterly company talks after earnings calls:** "every three months after our earnings calls" — SpaceX company talk 2026-08 — https://www.youtube.com/watch?v=vRsUMqZItmw
+- **DOGE posts actions as receipts on DOGE.gov and @DOGE handle:** "we post the receipts." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+- **DOGE savings exceed $4B/day at time of interview:** "our savings at this point exceed four billion dollars a day" — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+- **National-debt interest exceeding defense budget was wake-up call:** "interest payments, the national debt exceeded the Defense Department budget" — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+- **DOGE team a little over 100, mostly software and finance:** "We’re a little over 100 at this point." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+- **DOGE operating across pretty much all departments:** "Pretty much. Yes." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112

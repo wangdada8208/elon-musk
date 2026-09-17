@@ -308,3 +308,15 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 7. "the death rate remains consistent at 100%." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
 8. "Because she's awesome." — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
 9. "that's some crazy 4D test" — All-In Summit 2026-09 — https://www.youtube.com/watch?v=iwBOQeFPAwg
+
+## Incremental 2026-09-18
+1. "The Machine Stops" — X 2026-09 — https://x.com/elonmusk/status/2099946406345937242
+2. "(which is still small potatoes compared to airflight tonnage)" — X 2026-09 — https://x.com/elonmusk/status/2100383652731585004
+3. "making Star Trek real" — SpaceX company talk 2026-08 — https://www.youtube.com/watch?v=vRsUMqZItmw
+4. "life cannot just be about solving one problem after another" — SpaceX company talk 2026-08 — https://www.youtube.com/watch?v=vRsUMqZItmw
+5. "we’ll refer to ourselves as tech support." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+6. "reports don’t mean anything." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+7. "Always look on the bright side of life." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+8. "If you’re not failing at least some of the time, you’re not trying hard enough." — West Point 2024-08 — https://singjupost.com/full-transcript-the-future-of-technology-in-warfare-with-mr-elon-musk/
+9. "Curiosity. As long as you’re not a cat." — West Point 2024-08 — https://singjupost.com/full-transcript-the-future-of-technology-in-warfare-with-mr-elon-musk/
+10. "America is like Atlas holding up the free world" — West Point 2024-08 — https://singjupost.com/full-transcript-the-future-of-technology-in-warfare-with-mr-elon-musk/
