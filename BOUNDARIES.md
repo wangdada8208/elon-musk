@@ -87,3 +87,12 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - **We ultimately won’t control AI—but can instill values like a super-genius child:** "we won't ultimately be able to control the AI" — SpaceX company talk 2026-08
 - **DOGE method: follow the money:** "we just basically follow the money." — Kudlow/Fox 2025-03
 - **Building military drones is building Terminators—minimize that risk:** "when you’re making military drones, you are making Terminators." — West Point 2024-08
+
+## Baron Investment Conference 2025 (incremental 2026-09-19)
+
+- **Tesla's revised company goal is sustainable abundance — abundance for all without destroying the natural world:** "Our new goal is sustainable abundance. So that's abundance for all" — Baron Investment Conference 2025
+- **Musk turned down OpenAI shares because nonprofit self-enrichment seemed morally and legally indefensible:** "it didn't seem morally or legally defensible" — Baron Investment Conference 2025
+- **Musk's core motivation is curiosity — expanding consciousness to better understand the universe, alien life, and unanswered questions about reality:** "my motivation, is to expand consciousness to better understand the universe" — Baron Investment Conference 2025
+- **Tesla is insisting on demonstrating full self-driving to customers so they know how to enable it, framed as a safety practice:** "we're just insisting that we at least demonstrate self-driving to customers so they know how to use it and turn it on for safety reasons" — Baron Investment Conference 2025
+- **Musk describes himself as unabashedly pro-human and prioritizes human survival over alternatives:** "Yes, I'm unabashedly pro-human" — Baron Investment Conference 2025
+- **Musk wants actions that expand consciousness into the future, exploring star systems and searching for alien civilizations or their ruins:** "expand consciousness into the future so that the scope and scale of consciousness grows tremendously" — Baron Investment Conference 2025

@@ -78,3 +78,23 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **National-debt interest exceeding defense budget was wake-up call:** "interest payments, the national debt exceeded the Defense Department budget" — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
 - **DOGE team a little over 100, mostly software and finance:** "We’re a little over 100 at this point." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
 - **DOGE operating across pretty much all departments:** "Pretty much. Yes." — Kudlow/Fox 2025-03 — https://www.foxbusiness.com/video/6369857710112
+
+## Baron Investment Conference 2025 (incremental 2026-09-19)
+
+- **Optimus labor-and-materials cost should reach roughly $20,000–$30,000 in current dollars about a year after hitting one million units per year of steady-state production:** "I would expect the labor and materials to be $20,000 to $30,000 in current year dollars" — Baron Investment Conference 2025
+- **The Optimus hand and forearm contain about fifty actuators, roughly one hundred actuators per robot overall:** "There are 50 actuators in the hand, in hand and forearm actuators and motor" — Baron Investment Conference 2025
+- **Neuralink has more than ten patients with implants, including locked-in users who can now communicate nearly as fast as normal conversation:** "over 10 patients with Neuralink implants" — Baron Investment Conference 2025
+- **A combined Neuralink-and-Optimus cyborg capability could cost on the order of $60,000 rather than millions:** "it might be more like $60,000 type of thing" — Baron Investment Conference 2025
+- **Musk founded OpenAI as an open-source nonprofit counterbalance because Larry Page seemed insufficiently concerned about AI dangers to humanity:** "We got to have some counterbalance to Google because Larry doesn't seem to care if humans make it or not" — Baron Investment Conference 2025
+- **Grok 4 Heavy spawns several agents in parallel, compares outputs like a study group, and returns a final conclusion:** "we spawn several agents, they work in parallel, they compare their output like a study group" — Baron Investment Conference 2025
+- **Grok 5 will be a six-trillion-parameter model, up from three trillion for Grok 3 and 4, with higher intelligence density per gigabyte:** "this is a 6 trillion parameter model, whereas Grok 3 and 4 are based on a 3 trillion parameter model" — Baron Investment Conference 2025
+- **Tesla sees a path to roughly five-second vehicle cycle time on the production line, about walking speed for a sub-five-meter car:** "I certainly see a path to achieving a roughly 5 second time, or 5 seconds, which is only really walking speed" — Baron Investment Conference 2025
+- **The AI5 chip is essential for Tesla's next-generation self-driving cars and for Optimus; Musk collapsed the Dojo program into a single AI5 focus:** "all of Tesla hinges on that chip" — Baron Investment Conference 2025
+- **AI5 is designed as a powerful low-power inference chip with strong performance per watt for car and robot deployment:** "its performance per watt is extremely good" — Baron Investment Conference 2025
+- **Tesla is using four fabs — TSMC Taiwan, TSMC Arizona, Samsung Korea, and Samsung Texas — but Musk still sees chip supply as a limiting factor:** "TSMC Taiwan, TSMC Arizona, Samsung Korea, and the Texas backed Samsung" — Baron Investment Conference 2025
+- **Grok 5 training has begun and Musk expects release in Q1 on an unspecified year in the interview timeframe:** "now we've begun training on Grok 5" — Baron Investment Conference 2025
+
+## X posts incremental 2026-09-19
+
+- **Starlink direct-to-phone V2 delivers roughly 100 times more bandwidth than V1:** "V2 of the @Starlink direct-to-phone satellite constellation is a giant improvement over V1 with 100 times more bandwidth!" — X 2026-09
+- **Grok @Bot now has a voice mode:** "Grok @Bot now has a voice" — X 2026-09

@@ -298,3 +298,34 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - **Ground fiber/cell comms destroyed in major war—space comms critical:** "ground-based communications like fiber optic cables and cell phone towers will be destroyed" — West Point 2024-08
 - **GPS jamming is now easy:** "GPS jamming at this point is pretty easy" — West Point 2024-08
 - **Orbital kinetic weapons (rods from god) are feasible:** "tungsten cannonballs from orbit." — West Point 2024-08
+
+## Baron Investment Conference 2025 (incremental 2026-09-19)
+
+- **All eight billion people on Earth could fit on a single floor in New York City, so physical space is not the binding constraint for humanoid robots:** "all 8 billion people on Earth can fit on one floor in the city of New York" — Baron Investment Conference 2025
+- **Optimus does not mind being packed densely, unlike humans:** "Optimus doesn't mind being packed densely" — Baron Investment Conference 2025
+- **Humans still find meaning in activities even when machines outperform them, as with athletics and chess:** "even though machines can do much better, humans still find meaning" — Baron Investment Conference 2025
+- **Machines being better than humans at something does not remove human satisfaction and meaning from it:** "Than us at something doesn't mean we derive satisfaction and meaning from it" — Baron Investment Conference 2025
+- **Nearly everyone would want a personal helpful robot like R2-D2 or C-3PO:** "who on earth would not want their own personal R2-D2, C-3PO? Pretty much everyone would" — Baron Investment Conference 2025
+- **Industrial humanoid robots will likely outnumber workers roughly three or four to one, implying tens of billions of robots globally:** "Probably three or four to one relative to humans" — Baron Investment Conference 2025
+- **Dexterous human-hand-level sensitivity and degrees of freedom are required for tasks like threading a needle or playing guitar:** "you have to have a hand with the sensitivity, precision and degrees of freedom of a human hand" — Baron Investment Conference 2025
+- **Robots will be able to build anyone a castle if location is flexible:** "robots will be able to build you a castle if you want" — Baron Investment Conference 2025
+- **Optimus will reach superhuman surgical precision and make sophisticated medical procedures available to everyone:** "Optimus will have the level of precision that is frankly superhuman" — Baron Investment Conference 2025
+- **Money alone cannot solve poverty of great medical care because great doctors are scarce, but robots can be built in factories:** "They don't grow on trees, but now they'll get built in factories" — Baron Investment Conference 2025
+- **Neuralink motor-cortex signals can drive attached Optimus legs so a user could run faster than any human:** "he would actually be able to run faster than any human" — Baron Investment Conference 2025
+- **In AI ventures the ultimate winner is whoever can move fastest technologically:** "the winner ultimately is the one that is able to move the fastest" — Baron Investment Conference 2025
+- **AI success depends on three pillars: top talent, fastest GPU deployment, and unique data access:** "Are you able to attract the best talent? Are you able to bring the most amount of AI hardware online?" — Baron Investment Conference 2025
+- **X (formerly Twitter) is by far the best source of real-time data in the world for AI training:** "by far the best source of real-time data in the world" — Baron Investment Conference 2025
+- **Grok 5 is the first model where Musk assigns a non-zero chance of reaching artificial general intelligence, roughly ten percent:** "I calculate like 10%. That's what my biological neural network comes up with" — Baron Investment Conference 2025
+- **xAI plans an open-source distillation of all knowledge called Grokopedia, to be renamed toward an Encyclopedia Galactica / Insight:** "create an open source repository of all knowledge, like a distillation of all knowledge" — Baron Investment Conference 2025
+- **xAI wants to preserve distilled knowledge in stone-like microform on Earth, the Moon, Mars, and deep space as a modern Library of Alexandria:** "literally etch it in stone, in sort of stone-like microform and distribute it widely" — Baron Investment Conference 2025
+- **Intelligence per gigabyte and intelligence per trillion operations are important metrics for evaluating AI models:** "intelligence per gigabyte and intelligence per trillion operations" — Baron Investment Conference 2025
+- **Real-time video understanding is fundamentally necessary for AGI because humans can do it and models that cannot are incomplete:** "if you can't do that, which humans can obviously do, you really can't achieve AGI" — Baron Investment Conference 2025
+- **SpaceX sees a path to launching about 100 gigawatts per year of solar-powered AI satellites, roughly a quarter of average U.S. electricity output:** "putting 100 gigawatts per year of solar powered AI satellite into orbit" — Baron Investment Conference 2025
+- **Factory volumetric efficiency — useful cubic meters divided by total factory volume — is surprisingly low and limits throughput:** "how many cubic meters are doing something useful? And it's a surprisingly small percentage" — Baron Investment Conference 2025
+- **A five-year timeline for a new chip fab is too slow; Tesla may need its own large fab or face Optimus and FSD output limits:** "five years to get to buying production. I'm like five years? To me that's an eternity" — Baron Investment Conference 2025
+- **Full self-driving should behave like a human driver via end-to-end AI rather than hand-coded recognition of every edge case:** "The key to achieving full self-driving unsupervised, full self-driving, much safer than a human, is improving the AI software in the car" — Baron Investment Conference 2025
+- **Most companies are incrementalist, targeting only five to ten percent annual improvement rather than taking big risks:** "Most companies are incrementalist" — Baron Investment Conference 2025
+
+## X posts incremental 2026-09-19
+
+- **Starlink is now often more reliable than cable internet:** "Starlink is now often more reliable than cable" — X 2026-09

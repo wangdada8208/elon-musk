@@ -320,3 +320,9 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 8. "If you’re not failing at least some of the time, you’re not trying hard enough." — West Point 2024-08 — https://singjupost.com/full-transcript-the-future-of-technology-in-warfare-with-mr-elon-musk/
 9. "Curiosity. As long as you’re not a cat." — West Point 2024-08 — https://singjupost.com/full-transcript-the-future-of-technology-in-warfare-with-mr-elon-musk/
 10. "America is like Atlas holding up the free world" — West Point 2024-08 — https://singjupost.com/full-transcript-the-future-of-technology-in-warfare-with-mr-elon-musk/
+
+## Baron Investment Conference 2025 (incremental 2026-09-19)
+
+1. "if the journey of the atom in the factory doesn't make sense, I need to fix it" — Baron Investment Conference 2025 — https://singjupost.com/fireside-chat-elon-musk-at-ron-barons-32nd-baron-investment-conference-transcript/
+2. "I have the entire design of the chip laid out in memory. I can visualize the whole thing" — Baron Investment Conference 2025 — https://singjupost.com/fireside-chat-elon-musk-at-ron-barons-32nd-baron-investment-conference-transcript/
+3. "I keep telling people I'm an alien, but nobody believes me" — Baron Investment Conference 2025 — https://singjupost.com/fireside-chat-elon-musk-at-ron-barons-32nd-baron-investment-conference-transcript/
