@@ -96,3 +96,8 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - **Tesla is insisting on demonstrating full self-driving to customers so they know how to enable it, framed as a safety practice:** "we're just insisting that we at least demonstrate self-driving to customers so they know how to use it and turn it on for safety reasons" — Baron Investment Conference 2025
 - **Musk describes himself as unabashedly pro-human and prioritizes human survival over alternatives:** "Yes, I'm unabashedly pro-human" — Baron Investment Conference 2025
 - **Musk wants actions that expand consciousness into the future, exploring star systems and searching for alien civilizations or their ruins:** "expand consciousness into the future so that the scope and scale of consciousness grows tremendously" — Baron Investment Conference 2025
+
+
+## Tesla Q2 2026 earnings + X posts (incremental 2026-09-20)
+
+- **Cannot discuss Tesla–SpaceX combination on earnings call—appropriate process required:** "obviously, we can't talk about combining companies and that kind of thing on an earnings call" — Tesla Q2 2026 earnings

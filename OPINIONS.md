@@ -329,3 +329,40 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 ## X posts incremental 2026-09-19
 
 - **Starlink is now often more reliable than cable internet:** "Starlink is now often more reliable than cable" — X 2026-09
+
+
+## Tesla Q2 2026 earnings + X posts (incremental 2026-09-20)
+
+- **FSD is a major demand driver; many buyers want full self-driving with whatever car comes with it:** "they're actually buying Tesla full self-driving with a car attached as opposed to a car with FSD" — Tesla Q2 2026 earnings
+- **Robotaxi scaling is constrained by safety optics—one injury becomes worldwide headline news:** "if we injure even one person, it will be worldwide headline news" — Tesla Q2 2026 earnings
+- **Robotaxi must scale as fast as possible without harming anyone, ideally not even running over a pet:** "we're going as fast as humanly possible in scaling robotaxi with while trying to ensure that we do not harm anyone at all and ideally do not even run over a pet" — Tesla Q2 2026 earnings
+- **Optimus is the hardest product Tesla has ever had to scale in manufacturing—no existing supply chain:** "This is going to be the hardest product to scale manufacturing that we've ever made at Tesla because everything on the robot is new" — Tesla Q2 2026 earnings
+- **Optimus manufacturing ramp follows S-curve but initial flat portion will be long due to part newness:** "Optimus will follow the sort of normal S-curve of a manufacturing ramp, but the initial portion of the S-curve will be quite flat and long" — Tesla Q2 2026 earnings
+- **No humanoid robot today can do generalized tasks—internet demos are preprogrammed or remote controlled:** "those demonstrations you're seeing are preprogrammed or remote controlled. So there is no humanoid robot that is actually able to do generalized tasks" — Tesla Q2 2026 earnings
+- **Terafab is necessary; without it Tesla will be constrained scaling Optimus due to insufficient AI chips:** "one without which we will be constrained in our ability to scale Optimus production because we simply won't have enough AI chips" — Tesla Q2 2026 earnings
+- **Digital Optimus uses same paradigm as self-driving cars: photons in, controls out:** "for the car, it's sort of pixels in or photons in and controls out. The same thing is true for Optimus and Digital Optimus" — Tesla Q2 2026 earnings
+- **Physical Optimus needs generalized touchscreen/computer-use capability Digital Optimus provides:** "physical optimus needs to be able to operate computers. Like you can't come up to a touchscreen and not know what to do" — Tesla Q2 2026 earnings
+- **Megapods at Superchargers enable distributed AI compute using disaggregated electricity:** "these boxes can be placed anywhere in the country or outside the country. And this allows us to scale AI compute using disaggregated electricity production" — Tesla Q2 2026 earnings
+- **Robotaxi will be vertically integrated; demand will outstrip ability to service it:** "I think we will really have a lot more desire to use the service then like I think demand will outstrip our ability to service the demand" — Tesla Q2 2026 earnings
+- **March of 9s reliability is the main constraint on robotaxi growth:** "it's just the March 9 of reliability. I think the only thing really constraining our growth in robotaxi" — Tesla Q2 2026 earnings
+- **Starlink must be in all Tesla vehicles for robotaxi—cellular dead zones are Bermuda triangles:** "we can't have robotaxis getting stuck in these like Bermuda triangles of lack of cellular connectivity" — Tesla Q2 2026 earnings
+- **Cybercab needs chassis-specific driving data before large fleet deployment:** "we need to accumulate driving data that is specific to the Cybercab before we can put a lot of them on the road" — Tesla Q2 2026 earnings
+- **Semi autonomous driving takes backseat ~6 months while 3/Y and Cybercab pursue March of 9s:** "I just don't want it to be a distraction on the March of 9s of self-driving of safety for self-driving on 3Y and Cybercab" — Tesla Q2 2026 earnings
+- **Optimus 4 aspires to ~10M units/year vs ~1M for Optimus 3 with much more vertical integration:** "we aim to have an order of magnitude more production of Optimus 4 than Optimus 3. So sort of aspirationally 10 million units a year versus 1 million units a year of Optimus 3" — Tesla Q2 2026 earnings
+- **Tesla AI chip will be the best edge computing chip in the world:** "I think it's going to be the best edge computing chip in the world" — Tesla Q2 2026 earnings
+- **CapEx should be spent as fast as possible without being too wasteful—speed over extreme capital efficiency:** "we should be spending on CapEx as fast as we can spend -- as fast as we can without it being too wasteful" — Tesla Q2 2026 earnings
+- **Tesla's current industrial scale-up is fastest in America since World War II:** "I think probably this is the fastest industrial scale-up since World War II in America" — Tesla Q2 2026 earnings
+- **Solar plus batteries will produce the vast majority of world energy in the future:** "the solar battery combination will be how the vast majority of energy in the world is produced in the future" — Tesla Q2 2026 earnings
+- **Power constraints are a major issue for AI compute; hyperscalers struggle to turn on training clusters:** "power constraints are going to be -- they really are a major issue for AI, just turning on the AI computers" — Tesla Q2 2026 earnings
+- **Megapacks smooth dramatic AI training power swings—consumption can drop 70% in 100 milliseconds:** "during a training run, the power consumption can drop by 70% for 100 milliseconds" — Tesla Q2 2026 earnings
+- **US could roughly double energy output using batteries alone given 2.5× generation vs average usage:** "you could potentially double the energy output in the United States just with batteries" — Tesla Q2 2026 earnings
+- **Energy business will be crucial for scaling AI data centers:** "The energy business is also growing incredibly fast, and I think it will be crucial for the scale-up of artificial intelligence, data centers" — Tesla Q2 2026 earnings
+- **Autonomous Semi addresses serious truck-driver shortage and improves safety:** "there is a really serious shortage of truckers" — Tesla Q2 2026 earnings
+- **Camera-equipped legacy Teslas will be financially sensible to upgrade to next-gen AI boards:** "anything that's got sort of -- that's set up for cameras, it will be financially sensible at some point to upgrade them" — Tesla Q2 2026 earnings
+- **Starlink in-car enables 4K live sports with low cost per gigabyte vs cellular:** "with Starlink, you can watch 4K live sports in the car and with very low cost per gigabyte of data that's really not feasible via the cellular system" — Tesla Q2 2026 earnings
+- **Vehicle Starlink terminals could relay connectivity like ground cell towers:** "you could use the Starlink terminals that are in the Tesla cars as like sort of cell towers" — Tesla Q2 2026 earnings
+- **Open borders and welfare state cannot coexist without bankruptcy until AI/robots enable universal abundance:** "you can have open borders OR a welfare state, but you can’t have both without going bankrupt!" — X 2026-09
+- **AI safety debate is contradictory—groups demand slowdown while others sue for colluding to slow down:** "Damned if you do, damned if you don’t" — X 2026-09
+- **Transparency builds trust on platforms:** "Transparency builds trust" — X 2026-09
+- **AI game damage bugs illustrate worst-case AI risk—higher than intended damage:** "And people ask me what’s the worst that could happen with AI" — X 2026-09
+- **Media applies double standards:** "It’s a double-standard" — X 2026-09

@@ -98,3 +98,19 @@ First-person public-life notes distilled only from fetched longform with labeled
 
 - **Starlink direct-to-phone V2 delivers roughly 100 times more bandwidth than V1:** "V2 of the @Starlink direct-to-phone satellite constellation is a giant improvement over V1 with 100 times more bandwidth!" — X 2026-09
 - **Grok @Bot now has a voice mode:** "Grok @Bot now has a voice" — X 2026-09
+
+
+## Tesla Q2 2026 earnings + X posts (incremental 2026-09-20)
+
+- **Q2 2026 record deliveries; Cybercab production started; Optimus and Semi production ramping:** "The Cybercab has started production, and we also have started production and are ramping in -- we will soon start production with Optimus" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **Megapack 3, lithium refinery, cathode refinery, and solar cell production prep underway:** "We will soon start production with Megapack 3. We started production with the lithium refinery, the cathode refinery" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **Terafab location announcement coming soon; equipment orders placed for Austin development fab:** "We've placed equipment orders for our development fab in Austin" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **Robotaxi scaling >10% weekly mile growth compound rate:** "more than 10% a week in terms of miles driven" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **~7 gigawatts of power at Superchargers and growing:** "we've got something like 7 gigawatts of power at our superchargers and growing" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **Thanked Micron for significant memory allocation on reasonable terms amid insane pricing:** "we really appreciate Micron making room for Tesla in the years to come" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **Was under the weather during Q2 2026 earnings call:** "I'm a little under the weather here" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **SpaceX is big model/manager for Digital Optimus task assignment:** "SpaceX is sort of the big model that is kind of like the manager of Digital Optimus" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **Grok integrated in Tesla vehicles; helps drive Digital Optimus:** "Obviously, you've got Grok in the car. So -- and Grok helping drive Digital Optimus" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+- **X platform seeing all-time record usage:** "The platform is seeing all-time record usage" — X 2026-09 — https://x.com/elonmusk/status/2101297890022879641
+- **Played PoE2 Ruthless Hardcore SSF—meditative, constantly starving:** "PoE2 with Ruthless Hardcore SSF is next-level. Constantly starving" — X 2026-09 — https://x.com/elonmusk/status/2101204125274792065
+- **Reached top 50 in PoE2 hardcore without bought gear or piloting:** "made it to top 50 in HC (no bought/traded gear or piloting)" — X 2026-09 — https://x.com/elonmusk/status/2101180560341168165

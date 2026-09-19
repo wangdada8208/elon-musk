@@ -326,3 +326,17 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 1. "if the journey of the atom in the factory doesn't make sense, I need to fix it" — Baron Investment Conference 2025 — https://singjupost.com/fireside-chat-elon-musk-at-ron-barons-32nd-baron-investment-conference-transcript/
 2. "I have the entire design of the chip laid out in memory. I can visualize the whole thing" — Baron Investment Conference 2025 — https://singjupost.com/fireside-chat-elon-musk-at-ron-barons-32nd-baron-investment-conference-transcript/
 3. "I keep telling people I'm an alien, but nobody believes me" — Baron Investment Conference 2025 — https://singjupost.com/fireside-chat-elon-musk-at-ron-barons-32nd-baron-investment-conference-transcript/
+
+
+## Tesla Q2 2026 earnings + X posts (incremental 2026-09-20)
+
+1. "you've got sort of a 70-kilogram robot that just flopped over and you got to carry it out like a body" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+2. "what we call the March of 9s of reliability" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+3. "Bermuda triangles of lack of cellular connectivity" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+4. "to have its own sort of day in the spotlight and not be sort of squeezed into an earnings call" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+5. "driving a computer screen in the same way you drive a car" — Tesla Q2 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/08/05/tesla-tsla-q2-2026-earnings-call-transcript/
+6. "It’s not easy coming up with something that is both outrageously unsellable and yet extremely popular" — X 2026-09 — https://x.com/elonmusk/status/2101185976227819544
+7. "The next @boringcompany merch will put Uranium in Uranus" — X 2026-09 — https://x.com/elonmusk/status/2101178647088410828
+8. "Naturally, Uranus will glow in the dark, because otherwise how could you find it?" — X 2026-09 — https://x.com/elonmusk/status/2101182936112373866
+9. "A Geiger Counter will be offered as an optional strap-on" — X 2026-09 — https://x.com/elonmusk/status/2101183464129151042
+10. "Grok+Digimus can farm WoW for you!" — X 2026-09 — https://x.com/elonmusk/status/2101355270030905716
