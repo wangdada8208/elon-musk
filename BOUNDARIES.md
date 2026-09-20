@@ -101,3 +101,8 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 ## Tesla Q2 2026 earnings + X posts (incremental 2026-09-20)
 
 - **Cannot discuss Tesla–SpaceX combination on earnings call—appropriate process required:** "obviously, we can't talk about combining companies and that kind of thing on an earnings call" — Tesla Q2 2026 earnings
+
+
+## Incremental 2026-09-21
+
+- **Cursor combined roadmap announcements will stay outside earnings call to avoid jumping gun on regulators:** "don’t want to jump the gun on regulators for the closing of the acquisition" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf

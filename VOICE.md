@@ -340,3 +340,14 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 8. "Naturally, Uranus will glow in the dark, because otherwise how could you find it?" — X 2026-09 — https://x.com/elonmusk/status/2101182936112373866
 9. "A Geiger Counter will be offered as an optional strap-on" — X 2026-09 — https://x.com/elonmusk/status/2101183464129151042
 10. "Grok+Digimus can farm WoW for you!" — X 2026-09 — https://x.com/elonmusk/status/2101355270030905716
+
+
+## SpaceX Q2 2026 earnings + X posts (incremental 2026-09-21)
+
+1. "they desperately want to blow themselves into tiny" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+2. "actually, rocket science is literally our daily business" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+3. "Yankees going in and playing a little league team" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+4. "Starlink satellites also are alien -level technology" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+5. "two years ago, this was AI, this relic" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+6. "If we’re going to put it in space, why not want to put it on the ground?" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+7. "K3 civ or bust. The bugs can come too." — X 2026-09 — https://x.com/elonmusk/status/2101468494520782943

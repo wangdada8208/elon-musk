@@ -114,3 +114,10 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **X platform seeing all-time record usage:** "The platform is seeing all-time record usage" — X 2026-09 — https://x.com/elonmusk/status/2101297890022879641
 - **Played PoE2 Ruthless Hardcore SSF—meditative, constantly starving:** "PoE2 with Ruthless Hardcore SSF is next-level. Constantly starving" — X 2026-09 — https://x.com/elonmusk/status/2101204125274792065
 - **Reached top 50 in PoE2 hardcore without bought gear or piloting:** "made it to top 50 in HC (no bought/traded gear or piloting)" — X 2026-09 — https://x.com/elonmusk/status/2101180560341168165
+
+
+## SpaceX Q2 2026 earnings + X posts (incremental 2026-09-21)
+
+- **Two successful Starship V3 flights in past 90 days; Flight 14 will first fly V3 Starlink sats to operational orbit:** "completed two successful flights of Starship V3 in the past 90 days" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+- **Grok 4.6 probably next week; Grok 4.7 about three or four weeks from earnings call:** "4.6 coming out probably next week" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+- **Cursor acquisition should close quite soon; through almost all regulatory hurdles:** "should close quite soon" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf

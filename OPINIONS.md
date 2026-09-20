@@ -366,3 +366,44 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - **Transparency builds trust on platforms:** "Transparency builds trust" — X 2026-09
 - **AI game damage bugs illustrate worst-case AI risk—higher than intended damage:** "And people ask me what’s the worst that could happen with AI" — X 2026-09
 - **Media applies double standards:** "It’s a double-standard" — X 2026-09
+
+## SpaceX Q2 2026 earnings + X posts (incremental 2026-09-21)
+
+- **Starship aspirations are well over 1 million tons to orbit per year and probably ultimately 10 million:** "over 1 million tons to orbit per year and probably ultimately 10 million tons per year" — SpaceX Q2 2026 earnings
+- **Falcon delivers roughly 2,500 tons/year to orbit versus ~300 tons for the rest of the world—80–90% of Earth mass to orbit:** "we deliver 80% to 90% of total earth mass to orbit per year with Falcon" — SpaceX Q2 2026 earnings
+- **SpaceX encourages competitors to copy and does not use patents as landmines to block copying:** "use patents as sort of a landmine exercise to stop people from" — SpaceX Q2 2026 earnings
+- **Starlink V3 is ~10× V2 capability with ~10× launch rate → ~100× delivered bandwidth; even 10× lower monetization per bit still means 10× revenue:** "by a factor of 10, that would still mean a 10x increase in the revenue of Starlink" — SpaceX Q2 2026 earnings
+- **Starlink could deliver a majority of the world's Internet within less than 10 years in permitted markets:** "Starlink will deliver a majority of the world’s" — SpaceX Q2 2026 earnings
+- **AI and robotics will dramatically increase bandwidth appetite; Starlink is the only internet that can service that demand:** "Starlink is the only internet that can actually service that bandwidth" — SpaceX Q2 2026 earnings
+- **Average human outputs less than one bit per second over a day; computers do billions of bits per second continuously:** "average human is outputting less than one bit per second over the course of a day" — SpaceX Q2 2026 earnings
+- **Grok 5 before end of 2026 will incorporate the entire SpaceX data corpus and make Grok by far the best engineer:** "We think this will make Grok by far the best engineer" — SpaceX Q2 2026 earnings
+- **SpaceX is building and deploying AI compute faster than anyone else with the highest deployment efficiency:** "deployment, I think is also the highest" — SpaceX Q2 2026 earnings
+- **End 2026 with over 2 GW compute; end 2027 cumulative online compute closer to 10 GW than 5 GW:** "closer to 10 gigawatts of compute than 5 gigawatts of compute" — SpaceX Q2 2026 earnings
+- **SpaceX will build AI compute exclusively on NVIDIA because Vera Rubin is the best architecture and AI computer:** "decided to build exclusively on NVIDIA because we think the Vera" — SpaceX Q2 2026 earnings
+- **Starmind AI satellites are optimized Vera Rubin NVL72 computers launching next year—not far-future:** "start launching these next" — SpaceX Q2 2026 earnings
+- **Optimized NVL72 design is better than rack-style; cheaper and more effective on ground and in orbit:** "will be more effective" — SpaceX Q2 2026 earnings
+- **Starlink enterprise revenue will substantially exceed consumer revenue once uptime is demonstrated:** "substantially exceed consumer revenue" — SpaceX Q2 2026 earnings
+- **Tentative target 20 GW power and cooling online by end of next year; realistically expect ~15 GW at power-plant level:** "something close to 15 GW" — SpaceX Q2 2026 earnings
+- **Goal is far more power, cooling, and electrical equipment than GPUs given relative expense of balance-of-system:** "Our goal is to have far more power, cooling and electrical equipment than we have GPUs" — SpaceX Q2 2026 earnings
+- **Outside China, SpaceX and Tesla are the two best hardware companies on Earth—perhaps even including China:** "best companies on earth at hardware" — SpaceX Q2 2026 earnings
+- **A small fraction of rocket/satellite engineering skill applied to terrestrial data centers yields tremendous benefits:** "incredibly difficult, applied to data centers , yields tremendous benefits" — SpaceX Q2 2026 earnings
+- **$100 billion ARR in December 2026 is what SpaceX would achieve if it basically did nothing—probably higher:** "achieve if we basically did nothing" — SpaceX Q2 2026 earnings
+- **Internal $1 trillion revenue target moved from 2031 to 2030 with non-zero chance of 2029:** "There’s a non-zero chance of that being in 2029" — SpaceX Q2 2026 earnings
+- **Starship Flight 13 went incredibly well; heatshield appears very robust; ship recovered for analysis:** "this flight actually went incredibly well" — SpaceX Q2 2026 earnings
+- **Will attempt to catch Starship ship with tower on next flight tentatively end of September 2026:** "tower on the next flight, which is tentatively scheduled for the end of this month" — SpaceX Q2 2026 earnings
+- **Starship flight cadence will ramp to at least one flight per day, possibly more, within about a year:** "at least one flight a day , possibly more" — SpaceX Q2 2026 earnings
+- **Terrestrial data centers are a trivial problem compared to gigantic reusable rockets launched frequently:** "trivial problem compared to making gigantic reusable rockets which are launched frequently" — SpaceX Q2 2026 earnings
+- **Best guess monetization per watt of Rubin GPUs is roughly $30–$50:** "somewhere between $30 and $50" — SpaceX Q2 2026 earnings
+- **Intelligence per watt and usefulness per watt are increasing rapidly in AI:** "the intelligence per watt is increasing rapidly" — SpaceX Q2 2026 earnings
+- **An H-100 may eventually deliver useful AI comparable to a human engineer based on current trends:** "even an H-100 is able to deliver useful AI that’s" — SpaceX Q2 2026 earnings
+- **By end of 2027 it may be unclear whether any digital task exists that AI cannot do at current improvement rate:** "rate of improvement." — SpaceX Q2 2026 earnings
+- **AI compute demand is rising ~200%/year while memory supply rises ~20%/year—Economics 101 says prices rise:** "200% a year, maybe higher" — SpaceX Q2 2026 earnings
+- **Roughly 10% of SpaceX compute will be used for Grok training; majority for inference and external rental:** "maybe 10% of our compute to be used for" — SpaceX Q2 2026 earnings
+- **Starlink mobile can deploy many small dish-sized stations on roofs instead of expensive large base stations:** "really just Starlink dishes, that also provide connectivity in the mobile spectrum" — SpaceX Q2 2026 earnings
+- **Starlink mobile connectivity will probably be better and higher bandwidth than current cellular providers:** "is currently available from cellular providers" — SpaceX Q2 2026 earnings
+- **Starship must be super reliable for satellites before crew; human safety level probably by end of 2027:** "needed for humans very quickly, probably by the end of next year" — SpaceX Q2 2026 earnings
+- **Starship heatshield problem is solved; no technical obstacles remain to full and rapid reusability:** "we do not see any technical obstacles at this point to achieving full and rapid" — SpaceX Q2 2026 earnings
+- **Need ~1,000 V3 satellites for critical mass; service improvement roughly Q2 2027:** "probably at least on the order of about 1,000" — SpaceX Q2 2026 earnings
+- **Moon robots and mass accelerators could scale intelligence launched to space by 1,000×–1,000,000× toward Kardashev 2:** "scale to 1,000x the economy ofEarth in terms of" — SpaceX Q2 2026 earnings
+- **Boring Company building precursor Hyperloop tunnel Austin–San Antonio at >200 mph cutting 2.5 hr trips to <30 min:** "precursor Hyperloop tunnel between Austin and San Antonio (>200 mph)" — X 2026-09
+- **Starlink V3 per-satellite connectivity ~10 Tb both directions with path to 100+ Tb; 250 kW; SpaceX-designed Nvidia Vera Rubin NVL72 onboard:** "Connectivity per sat will be more like 10Tb in both directions and there is a path to 100+Tb" — X 2026-09
