@@ -407,3 +407,16 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - **Moon robots and mass accelerators could scale intelligence launched to space by 1,000×–1,000,000× toward Kardashev 2:** "scale to 1,000x the economy ofEarth in terms of" — SpaceX Q2 2026 earnings
 - **Boring Company building precursor Hyperloop tunnel Austin–San Antonio at >200 mph cutting 2.5 hr trips to <30 min:** "precursor Hyperloop tunnel between Austin and San Antonio (>200 mph)" — X 2026-09
 - **Starlink V3 per-satellite connectivity ~10 Tb both directions with path to 100+ Tb; 250 kW; SpaceX-designed Nvidia Vera Rubin NVL72 onboard:** "Connectivity per sat will be more like 10Tb in both directions and there is a path to 100+Tb" — X 2026-09
+
+## X posts incremental 2026-09-22
+
+- **Tesla vehicle evidence can exonerate owners facing criminal charges:** "A Tesla saves its owner from prison!" — X 2026-09 — https://x.com/elonmusk/status/2101766776325595530
+- **Hundreds or thousands of fraud rings of almost every nationality steal money from US taxpayers:** "There hundreds, maybe thousands, of fraud rings of almost every nationality stealing money from US taxpayers" — X 2026-09 — https://x.com/elonmusk/status/2101864130915319830
+- **Earth-scale energy or engineering efforts are pathetically tiny compared to the Sun—just use the Sun:** "Just use the Sun. Anything we do on Earth is pathetically tiny compared to the Sun." — X 2026-09 — https://x.com/elonmusk/status/2101920001112379537
+- **Intelligence is improving exponentially:** "Intelligence is improving exponentially" — X 2026-09 — https://x.com/elonmusk/status/2101975928800714904
+- **Amazon cannot distinguish human buyers from AI agents acting on their behalf when access uses the user's IP address and cookies:** "Amazon won't be able to tell whether the buyer is a human or an AI acting on their behalf if access is via the user's IP address & cookies" — X 2026-09 — https://x.com/elonmusk/status/2102065121514209706
+- **Grok 4.7 combines intelligence, speed, and low cost:** "Grok 4.7 is a strong combination of intelligence, speed & low cost" — X 2026-09 — https://x.com/elonmusk/status/2102071804495872374
+- **Grok 4.7 ranks third for agentic coding after Anthropic and OpenAI; speed and cost make it an everyday workhorse:** "Grok 4.7 places @SpaceXAI as third, after Anthropic & OpenAI, for agentic coding." — X 2026-09 — https://x.com/elonmusk/status/2102082011233931762
+- **Grok 4.7 works extremely well with the Build harness:** "Grok 4.7 works extremely well with our Build harness" — X 2026-09 — https://x.com/elonmusk/status/2102083930107101382
+- **Best Grok 4.7 results require using it with the Build harness:** "Important to use Grok 4.7 with our Build harness for the best results" — X 2026-09 — https://x.com/elonmusk/status/2102102621037236699
+

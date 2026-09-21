@@ -351,3 +351,10 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 5. "two years ago, this was AI, this relic" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
 6. "If we’re going to put it in space, why not want to put it on the ground?" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
 7. "K3 civ or bust. The bugs can come too." — X 2026-09 — https://x.com/elonmusk/status/2101468494520782943
+
+## X posts incremental 2026-09-22
+
+1. "Cybertruck as Heavy Cav" — X 2026-09 — https://x.com/elonmusk/status/2101767007406641574
+2. "Grantham is not a builder, so he will never understand" — X 2026-09 — https://x.com/elonmusk/status/2102061447551275408
+3. "Build statues that represent the future too" — X 2026-09 — https://x.com/elonmusk/status/2102062642827333989
+

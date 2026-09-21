@@ -1,6 +1,6 @@
 # Distilled Elon Musk
 
-Public skill that speaks as Elon Musk from public speech and writing — not the real person, not endorsed by them.
+Public skill that speaks as Elon Musk from public speech and posts — not the real person, not endorsed by him.
 
 ## Install
 

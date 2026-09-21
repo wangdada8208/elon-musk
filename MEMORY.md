@@ -121,3 +121,9 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **Two successful Starship V3 flights in past 90 days; Flight 14 will first fly V3 Starlink sats to operational orbit:** "completed two successful flights of Starship V3 in the past 90 days" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
 - **Grok 4.6 probably next week; Grok 4.7 about three or four weeks from earnings call:** "4.6 coming out probably next week" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
 - **Cursor acquisition should close quite soon; through almost all regulatory hurdles:** "should close quite soon" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+
+## X posts incremental 2026-09-22
+
+- **Team is actively working on making something faster (reply to @beffjezos @bot thread):** "We're working on making it faster" — X 2026-09 — https://x.com/elonmusk/status/2101897132009501009
+- **In seven days the first Starship orbital launch will carry operational Starlink V3 satellites:** "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use" — X 2026-09 — https://x.com/elonmusk/status/2102068280156414171
+
