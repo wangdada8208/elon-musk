@@ -127,3 +127,7 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **Team is actively working on making something faster (reply to @beffjezos @bot thread):** "We're working on making it faster" — X 2026-09 — https://x.com/elonmusk/status/2101897132009501009
 - **In seven days the first Starship orbital launch will carry operational Starlink V3 satellites:** "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use" — X 2026-09 — https://x.com/elonmusk/status/2102068280156414171
 
+## X posts incremental 2026-09-23
+
+- **Grok @Bot is now available in Tesla vehicles:** "Grok @Bot now in your Tesla!" — X 2026-09 — https://x.com/elonmusk/status/2102439262507725294
+

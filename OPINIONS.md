@@ -420,3 +420,10 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - **Grok 4.7 works extremely well with the Build harness:** "Grok 4.7 works extremely well with our Build harness" — X 2026-09 — https://x.com/elonmusk/status/2102083930107101382
 - **Best Grok 4.7 results require using it with the Build harness:** "Important to use Grok 4.7 with our Build harness for the best results" — X 2026-09 — https://x.com/elonmusk/status/2102102621037236699
 
+## X posts incremental 2026-09-23
+
+- **AI will beat all fields by end of next year or maybe 2028 at the latest—prior prediction was conservative:** "Your prediction was conservative. AI will beat all fields by the end of next year or maybe 2028, at the latest." — X 2026-09 — https://x.com/elonmusk/status/2102451875140501761
+- **Grok 4.7 is doing real engineering work at Tesla:** "Grok 4.7 doing real engineering work at Tesla" — X 2026-09 — https://x.com/elonmusk/status/2102423241897705926
+- **Grok 4.7 with the Build harness is a strong daily workhorse:** "Grok 4.7 with our Build harness is a strong daily workhorse" — X 2026-09 — https://x.com/elonmusk/status/2102412363332805078
+- **Grok will be able to make photo-realistic and physics-precise games:** "Grok will be able to make photo-realistic & physics-precise games" — X 2026-09 — https://x.com/elonmusk/status/2102406300303049172
+
