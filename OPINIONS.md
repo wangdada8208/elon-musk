@@ -427,3 +427,9 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - **Grok 4.7 with the Build harness is a strong daily workhorse:** "Grok 4.7 with our Build harness is a strong daily workhorse" — X 2026-09 — https://x.com/elonmusk/status/2102412363332805078
 - **Grok will be able to make photo-realistic and physics-precise games:** "Grok will be able to make photo-realistic & physics-precise games" — X 2026-09 — https://x.com/elonmusk/status/2102406300303049172
 
+
+## X posts incremental 2026-09-24
+
+- **Grok 4.7 performs fairly well relative to its size class:** "Grok 4.7 is performing fairly well for a smallish model." — X 2026-09 — https://x.com/elonmusk/status/2102520283618017355
+- **Putting “Safe” in a product or org name invites ironic failure—the universe favors opposite outcomes:** "Putting “Safe” in the name tempts fate with the opposite outcome." — X 2026-09 — https://x.com/elonmusk/status/2102799520455360517
+- **Incentives explain political behavior (e.g. party alignment with border and voting policies):** "Incentives explain behavior." — X 2026-09 — https://x.com/elonmusk/status/2102817528728936694

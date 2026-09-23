@@ -131,3 +131,8 @@ First-person public-life notes distilled only from fetched longform with labeled
 
 - **Grok @Bot is now available in Tesla vehicles:** "Grok @Bot now in your Tesla!" — X 2026-09 — https://x.com/elonmusk/status/2102439262507725294
 
+
+## X posts incremental 2026-09-24
+
+- **Grok @Bot usage is growing faster than any prior xAI product launch metric:** "Grok @Bot usage is growing faster than anything we’ve ever seen" — X 2026-09 — https://x.com/elonmusk/status/2102798608227795393
+- **New Grok @Bot features shipped or announced:** "New Grok @Bot features!" — X 2026-09 — https://x.com/elonmusk/status/2102798963837665464
