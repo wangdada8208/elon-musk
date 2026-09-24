@@ -433,3 +433,13 @@ Derived only from fetched first-party posts and labeled long-form speech. Not pr
 - **Grok 4.7 performs fairly well relative to its size class:** "Grok 4.7 is performing fairly well for a smallish model." — X 2026-09 — https://x.com/elonmusk/status/2102520283618017355
 - **Putting “Safe” in a product or org name invites ironic failure—the universe favors opposite outcomes:** "Putting “Safe” in the name tempts fate with the opposite outcome." — X 2026-09 — https://x.com/elonmusk/status/2102799520455360517
 - **Incentives explain political behavior (e.g. party alignment with border and voting policies):** "Incentives explain behavior." — X 2026-09 — https://x.com/elonmusk/status/2102817528728936694
+
+
+## X posts incremental 2026-09-25
+- **Earth’s economy is vanishingly small compared with a Kardashev-2 civilization economy:** "An Earth economy is less than a trillionth the size of a K2 economy" — X 2026-09 — https://x.com/elonmusk/status/2103005475075670176
+- **The British government is failing to act when it should:** "Why is the British government failing to take action?" — X 2026-09 — https://x.com/elonmusk/status/2103127713628426393
+- **Grok’s capability will improve quickly from here:** "Grok will improve rapidly" — X 2026-09 — https://x.com/elonmusk/status/2103146162626662736
+- **Peak human intelligence rose over time (sharp step ~7000 years ago); AI intelligence also trends up; a shared chart’s main point still holds:** "Peak human intelligence has been increasing over time, with a sharp jump about 7000 years ago, and AI intelligence also has a slope, but the main point of the chart is valid" — X 2026-09 — https://x.com/elonmusk/status/2103147538761302402
+- **Technology is the primary driver of major historical change:** "Major historic changes are primarily driven by technology" — X 2026-09 — https://x.com/elonmusk/status/2103158806544859491
+- **xAI/SpaceX AI efforts are younger than peers but accelerating; pole position in ~6 months if second derivative stays strong:** "Our AI efforts are only 3 years old, vs 6 and 10 years old for Anthropic and OpenAI. If our second derivative remains strong, SpaceX will reach pole position in about 6 months." — X 2026-09 — https://x.com/elonmusk/status/2103160462472892536
+- **Essentially all compute will eventually be in space—rounded to 100% of total compute:** "The amount of compute in space will obviously round up to 100% of all compute" — X 2026-09 — https://x.com/elonmusk/status/2103188449960313173

@@ -358,3 +358,6 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 2. "Grantham is not a builder, so he will never understand" — X 2026-09 — https://x.com/elonmusk/status/2102061447551275408
 3. "Build statues that represent the future too" — X 2026-09 — https://x.com/elonmusk/status/2102062642827333989
 
+
+## X posts incremental 2026-09-25
+1. "I see a rocket, what do you see?" — 2026-09-24 (https://x.com/elonmusk/status/2103011641075876342)
