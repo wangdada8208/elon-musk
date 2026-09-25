@@ -136,3 +136,17 @@ First-person public-life notes distilled only from fetched longform with labeled
 
 - **Grok @Bot usage is growing faster than any prior xAI product launch metric:** "Grok @Bot usage is growing faster than anything we’ve ever seen" — X 2026-09 — https://x.com/elonmusk/status/2102798608227795393
 - **New Grok @Bot features shipped or announced:** "New Grok @Bot features!" — X 2026-09 — https://x.com/elonmusk/status/2102798963837665464
+
+
+## X posts incremental 2026-09-25
+- **Grok 4.7 improved its benchmark or leaderboard ranking:** "Grok 4.7 moves up in ranking" — X 2026-09 — https://x.com/elonmusk/status/2102873022789283985
+- **A showcased product uses nickel cathode manufactured locally at Gigafactory Texas:** "Made with nickel cathode manufactured locally at Gigafactory Texas!" — X 2026-09 — https://x.com/elonmusk/status/2102926113173627069
+- **Referenced material was added after the original printing, not in the first print run:** "They were added later and were not in the original printing" — X 2026-09 — https://x.com/elonmusk/status/2102927625752818027
+- **A launch was being prepared for the following Monday:** "Preparing for launch on Monday" — X 2026-09 — https://x.com/elonmusk/status/2102952674727784693
+- **Cautiously expects a Fable/GPT-6–class model from SpaceX (xAI) within about two to three months:** "I am cautiously optimistic that SpaceX will have a Fable/GPT-6 level model in 2 to 3 months" — X 2026-09 — https://x.com/elonmusk/status/2103151040858067289
+
+## X posts incremental 2026-09-26
+- **Exploring Starship design with 2 grid fins plus S-turns for the third control axis:** "We might be able to reduce to 2 grid fins and use S-turns for the third axis of control" — X 2026-09 — https://x.com/elonmusk/status/2103540479266836485
+- **Colossus 1 is 150k H100 + 50k H200 + 30k GB200; Colossus 2 is 110k GB200 + 440k GB300, with further 220k GB300 ramps (next week, November, possibly late December):** "Colossus 1 is 150k H100, 50k H200 and 30k GB200. Colossus 2 is 110k GB200 and 440k GB300. Another 220k GB300 will be fully operational next week and another 220k in November. If we get lucky, yet another 220k GB300 by late December." — X 2026-09 — https://x.com/elonmusk/status/2103329761690865846
+- **The odd 110k GPU multiple on Colossus is set by fiber-optic cables into a central switch:** "The strange multiple of 110k is due to the number of fiber optic cables that can be plugged into a central switch" — X 2026-09 — https://x.com/elonmusk/status/2103352821135376584
+- **Congratulated the Tesla Semi team for engineering and bringing Semi to production:** "Congratulations to the @Tesla_Semi team on engineering and, even harder, bringing to production an amazing machine!" — X 2026-09 — https://x.com/elonmusk/status/2103322398862778827

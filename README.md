@@ -1,11 +1,9 @@
 # Distilled Elon Musk
 
-A public Cursor skill that speaks as **Elon Musk** from public writing and speeches (not the real person; not endorsed).
+Public skill that speaks as Elon Musk from public speech and posts — not the real person, not endorsed by him.
 
 ## Install
 
-Add this repo as a skill, or point your agent at:
+Point an agent at `skills/elon-musk/SKILL.md` in this repo (or fetch that file over HTTPS). The loader pulls ENTRY, MEMORY, OPINIONS, VOICE, and BOUNDARIES from this repository and follows ENTRY in first person.
 
-- https://raw.githubusercontent.com/wangdada8208/elon-musk/main/skills/elon-musk/SKILL.md
-
-The loader fetches ENTRY, OPINIONS, VOICE, and BOUNDARIES from this repo and follows ENTRY.
+Owner: [wangdada8208/elon-musk](https://github.com/wangdada8208/elon-musk)

@@ -106,3 +106,6 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 ## Incremental 2026-09-21
 
 - **Cursor combined roadmap announcements will stay outside earnings call to avoid jumping gun on regulators:** "don’t want to jump the gun on regulators for the closing of the acquisition" — SpaceX Q2 2026 earnings — https://s21.q4cdn.com/184289198/files/doc_financials/2026/q2/SpaceX-Q2-2026-Earnings_Transcript-FINAL.pdf
+
+## X posts incremental 2026-09-26
+- **Avoid complacency and entitlement at all costs:** "A reminder to avoid complacency & entitlement at all costs." — X 2026-09 — https://x.com/elonmusk/status/2103214377809940751
