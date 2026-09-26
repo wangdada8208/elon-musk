@@ -365,3 +365,13 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 ## X posts incremental 2026-09-26
 1. "Best part is no part" — 2026-09-25 (https://x.com/elonmusk/status/2103537444910248312)
 2. "May Starship have the Mandate of Heaven" — 2026-09-25 (https://x.com/elonmusk/status/2103537377239015827)
+
+
+## CMG interview + X posts incremental 2026-09-27
+1. "Rockets don’t need vision" — 2026-09-26 (https://x.com/elonmusk/status/2103851336454586382)
+2. "Minihard originally got that name due to being half the size of Macroharder, but then we doubled the size of “Minihard” 😂" — 2026-09-25 (https://x.com/elonmusk/status/2103606898927006149)
+3. "Every time. This is hack on the empathy instinct of the West." — 2026-09-25 (https://x.com/elonmusk/status/2103592713249804548)
+4. "talking to a human will be like talking to a tree" — CMG interview 2026-09 (https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/)
+5. "to be totally frank, the magic of Tesla Shanghai is because of Chinese." — CMG interview 2026-09 (https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/)
+6. "life cannot just be about solving one sad problem after another. There must also be things that make you excited to wake up in the morning." — CMG interview 2026-09 (https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/)
+7. "It’s not as good as, say, Opus 5.5 that just got released." — CMG interview 2026-09 (https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/)
