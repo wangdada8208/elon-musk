@@ -150,3 +150,19 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **Colossus 1 is 150k H100 + 50k H200 + 30k GB200; Colossus 2 is 110k GB200 + 440k GB300, with further 220k GB300 ramps (next week, November, possibly late December):** "Colossus 1 is 150k H100, 50k H200 and 30k GB200. Colossus 2 is 110k GB200 and 440k GB300. Another 220k GB300 will be fully operational next week and another 220k in November. If we get lucky, yet another 220k GB300 by late December." — X 2026-09 — https://x.com/elonmusk/status/2103329761690865846
 - **The odd 110k GPU multiple on Colossus is set by fiber-optic cables into a central switch:** "The strange multiple of 110k is due to the number of fiber optic cables that can be plugged into a central switch" — X 2026-09 — https://x.com/elonmusk/status/2103352821135376584
 - **Congratulated the Tesla Semi team for engineering and bringing Semi to production:** "Congratulations to the @Tesla_Semi team on engineering and, even harder, bringing to production an amazing machine!" — X 2026-09 — https://x.com/elonmusk/status/2103322398862778827
+
+
+## CMG interview + X posts incremental 2026-09-27
+- **CMG/CCTV Business exclusive (~2026-09-25) at Tesla Global Engineering HQ; Cybercab commercial in Texas now, Florida/Nevada soon, California ~mid next year:** "operating commercially in Texas right now. … probably by middle of next year, it’ll be operating commercially in California." — CMG interview 2026-09 — https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/
+- **GrokBot growing ~100%/month; new Grok roughly every month or two:** "growing about 100% a month." — CMG interview 2026-09 — https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/
+- **Starship ship catch targeted around end of next month; refly later this year or early next:** "catching the ship hopefully around the end of next month and then reflying the ship either later this year or early next year." — CMG interview 2026-09 — https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/
+- **Minihard named for half Macroharder size, then doubled:** "Minihard originally got that name due to being half the size of Macroharder, but then we doubled the size of “Minihard” 😂" — X 2026-09 — https://x.com/elonmusk/status/2103606898927006149
+- **Would be quite disappointed if SpaceX GW compute installs were as low as a cited chart:** "If we are that low, I would be quite disappointed" — X 2026-09 — https://x.com/elonmusk/status/2103691472881225969
+
+
+## Incremental 2026-09-28
+- **Starship hourly-flights horizon (X):** "Starship is 2 to 3 years away from hourly flights" — https://x.com/elonmusk/status/2104241521746649165
+- **Grok Bot finance feature push:** "Grok @Bot can manage your finances" — https://x.com/elonmusk/status/2103958249922072840
+- **Tesla Q1 2026 milestones (public):** AI5 taped out; research chip fab plans finalized at Giga Texas; CyberCab production started; Optimus Fremont SOP later 2026; Robotaxi expanded to Dallas/Houston — "Congratulations again to the Tesla AI chip team for taping out AI5." — https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript
+- **2007 work split (historical):** ~80% time SpaceX day job; ~2–3 days/month Tesla; cubicle at SpaceX — "I spend 80% of my time on SpaceX." — PBS Wired Science 2007 — https://singjupost.com/elon-musks-interview-in-2007-with-pbs-wired-science-transcript/
+- **SpaceX patent stance (TED 2013):** does not patent because primary competitors are national governments — "Since our primary competitors are national governments, the enforceability of patents is questionable." — https://singjupost.com/mind-behind-tesla-spacex-solarcity-fireside-chat-elon-musk-transcript/

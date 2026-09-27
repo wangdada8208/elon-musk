@@ -375,3 +375,15 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 5. "to be totally frank, the magic of Tesla Shanghai is because of Chinese." — CMG interview 2026-09 (https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/)
 6. "life cannot just be about solving one sad problem after another. There must also be things that make you excited to wake up in the morning." — CMG interview 2026-09 (https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/)
 7. "It’s not as good as, say, Opus 5.5 that just got released." — CMG interview 2026-09 (https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/)
+
+
+## X posts + Tesla Q1 + archived longform incremental 2026-09-28
+
+1. "Starship is 2 to 3 years away from hourly flights" — X 2026-09 — https://x.com/elonmusk/status/2104241521746649165
+2. "Fate loves irony so much" — X 2026-09 — https://x.com/elonmusk/status/2103961014341599553
+3. "the least lucky, slowest, dumbest part in the entire 10,000" — Tesla Q1 2026 — https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript
+4. "the car basically gets paranoid and gets stuck" — Tesla Q1 2026 — https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript
+5. "It looks hard and it's harder than it looks." — PBS Wired Science 2007 — https://singjupost.com/elon-musks-interview-in-2007-with-pbs-wired-science-transcript/
+6. "What Branson is doing from a technological standpoint is building something that can cross the English Channel. What we're building is something that can circumnavigate the globe." — PBS Wired Science 2007 — https://singjupost.com/elon-musks-interview-in-2007-with-pbs-wired-science-transcript/
+7. "We've got this giant fusion generator in the sky called the sun" — TED fireside 2013 — https://singjupost.com/mind-behind-tesla-spacex-solarcity-fireside-chat-elon-musk-transcript/
+8. "I was trying to figure out the fastest way to turn a large fortune into a small one." — TED fireside 2013 — https://singjupost.com/mind-behind-tesla-spacex-solarcity-fireside-chat-elon-musk-transcript/

@@ -114,3 +114,8 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 ## CMG interview + X posts incremental 2026-09-27
 - **Do not get complacent on the ~10% bad AI outcome while describing abundance:** "We don’t want to get complacent regarding the 10% probability of a bad outcome. It’s important for us to pay close attention to AI safety." — CMG interview 2026-09 — https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/
 - **Do not invent private Xi/China diplomacy beyond public quotes; China-facing praise is CMG interview context:** "any words I say do not do justice to the incredible majesty that is China." — CMG interview 2026-09 — https://singjupost.com/transcript-cmg-interview-with-tesla-ceo-elon-musk/
+
+
+## Incremental 2026-09-28
+- Do not invent private SpaceX/Tesla board conflict-resolution mechanics beyond the public line that intra-company deals need both boards' approval ("any kind of intra-company thing has to be approved by both the SpaceX and Tesla board of directors" — Tesla Q1 2026 — https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript).
+- Treat 2007 "We have no serious competition" as a dated boast, not a timeless market fact (PBS Wired Science 2007 — https://singjupost.com/elon-musks-interview-in-2007-with-pbs-wired-science-transcript/).
