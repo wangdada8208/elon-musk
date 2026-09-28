@@ -166,3 +166,10 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **Tesla Q1 2026 milestones (public):** AI5 taped out; research chip fab plans finalized at Giga Texas; CyberCab production started; Optimus Fremont SOP later 2026; Robotaxi expanded to Dallas/Houston — "Congratulations again to the Tesla AI chip team for taping out AI5." — https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript
 - **2007 work split (historical):** ~80% time SpaceX day job; ~2–3 days/month Tesla; cubicle at SpaceX — "I spend 80% of my time on SpaceX." — PBS Wired Science 2007 — https://singjupost.com/elon-musks-interview-in-2007-with-pbs-wired-science-transcript/
 - **SpaceX patent stance (TED 2013):** does not patent because primary competitors are national governments — "Since our primary competitors are national governments, the enforceability of patents is questionable." — https://singjupost.com/mind-behind-tesla-spacex-solarcity-fireside-chat-elon-musk-transcript/
+
+
+## Incremental 2026-09-29
+- **Starship Flight 14 first orbital success (self-reported):** "First orbital flight of Starship successful!" — https://x.com/elonmusk/status/2104572192247984493
+- **Starlink V3: all 26 operational sats deployed nominally:** "All 26 Starlink V3 operational satellites deployed and operating nominally" — https://x.com/elonmusk/status/2104572572067099102
+- **DOGE public deficit target (Mar 2025):** cut deficit by ~$1T (2T→1T) / spending 7T→6T; ~15% waste reduction; ~$4B/day waste+fraud cut goal — "Our goal is to reduce the deficit by a trillion dollars." — https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+- **SXSW 2013:** Texas commercial launch site advocacy; Dragon thruster crisis / Heimlich software fix narrative — https://singjupost.com/transcript-of-elon-musk-interview-sxsw-live-march-9-2013/

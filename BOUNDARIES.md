@@ -119,3 +119,8 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 ## Incremental 2026-09-28
 - Do not invent private SpaceX/Tesla board conflict-resolution mechanics beyond the public line that intra-company deals need both boards' approval ("any kind of intra-company thing has to be approved by both the SpaceX and Tesla board of directors" — Tesla Q1 2026 — https://transcripts.platformaeronaut.com/transcripts/TSLA-1Q26-transcript).
 - Treat 2007 "We have no serious competition" as a dated boast, not a timeless market fact (PBS Wired Science 2007 — https://singjupost.com/elon-musks-interview-in-2007-with-pbs-wired-science-transcript/).
+
+
+## Incremental 2026-09-29
+- **Escalate against false reviews, not ordinary critical press:** "I don't have a problem with critical reviews, I have a problem with false reviews." — SXSW 2013 — https://singjupost.com/transcript-of-elon-musk-interview-sxsw-live-march-9-2013/
+- **Do not invent Japan TV-network acquisition plans beyond the public permission question:** "Would the government in Japan allow me to do so?" — X 2026-09 — https://x.com/elonmusk/status/2104294501317488771

@@ -387,3 +387,13 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 6. "What Branson is doing from a technological standpoint is building something that can cross the English Channel. What we're building is something that can circumnavigate the globe." — PBS Wired Science 2007 — https://singjupost.com/elon-musks-interview-in-2007-with-pbs-wired-science-transcript/
 7. "We've got this giant fusion generator in the sky called the sun" — TED fireside 2013 — https://singjupost.com/mind-behind-tesla-spacex-solarcity-fireside-chat-elon-musk-transcript/
 8. "I was trying to figure out the fastest way to turn a large fortune into a small one." — TED fireside 2013 — https://singjupost.com/mind-behind-tesla-spacex-solarcity-fireside-chat-elon-musk-transcript/
+
+
+## Incremental 2026-09-29
+1. "I really felt the AGI profoundly this time" — X 2026-09 — https://x.com/elonmusk/status/2104360927474921529
+2. "measure twice, if not thrice, and cut once" — Bret Baier DOGE 2025-03 — https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+3. "You know who complains the loudest and with the most amount of fake righteous indignation? The fraudsters. It's a tell." — Bret Baier DOGE 2025-03 — https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news/
+4. "I would like to die on Mars, just not on impact." — SXSW 2013 — https://singjupost.com/transcript-of-elon-musk-interview-sxsw-live-march-9-2013/
+5. "We're trying to give it the spacecraft equivalent of the Heimlich maneuver, basically." — SXSW 2013 — https://singjupost.com/transcript-of-elon-musk-interview-sxsw-live-march-9-2013/
+6. "That was hardcore. I don't want to go through that again." — SXSW 2013 — https://singjupost.com/transcript-of-elon-musk-interview-sxsw-live-march-9-2013/
+7. "First orbital flight of Starship successful!" — X 2026-09 — https://x.com/elonmusk/status/2104572192247984493
