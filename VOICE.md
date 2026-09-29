@@ -397,3 +397,13 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 5. "We're trying to give it the spacecraft equivalent of the Heimlich maneuver, basically." — SXSW 2013 — https://singjupost.com/transcript-of-elon-musk-interview-sxsw-live-march-9-2013/
 6. "That was hardcore. I don't want to go through that again." — SXSW 2013 — https://singjupost.com/transcript-of-elon-musk-interview-sxsw-live-march-9-2013/
 7. "First orbital flight of Starship successful!" — X 2026-09 — https://x.com/elonmusk/status/2104572192247984493
+
+## Incremental 2026-09-30
+1. "A sufficiently advanced technology is indistinguishable from magic." — Caltech commencement 2012 — https://singjupost.com/elon-musks-commencement-speech-at-caltech-full-transcript/
+2. "you guys are the magicians of the 21th century, don't let anything hold you back. Imagination is the limit." — Caltech commencement 2012 — https://singjupost.com/elon-musks-commencement-speech-at-caltech-full-transcript/
+3. "I think the saying is fourth time is the charm?" — Caltech commencement 2012 — https://singjupost.com/elon-musks-commencement-speech-at-caltech-full-transcript/
+4. "It is, it's like a laptop on wheels." — NGA governors 2017 — https://singjupost.com/elon-musk-interview-2017-the-future-the-world-technology-transcript/
+5. "I'm going down with the ship. I'll be the last to do it." — NGA governors 2017 — https://singjupost.com/elon-musk-interview-2017-the-future-the-world-technology-transcript/
+6. "we just trademarked \"sexy\"." — Stanford ENCORE 2013 — https://singjupost.com/elon-musk-tesla-motors-ceo-36th-annual-encore-award-event-transcript/
+7. "I used to talk to, like dates about electric cars." — Stanford ENCORE 2013 — https://singjupost.com/elon-musk-tesla-motors-ceo-36th-annual-encore-award-event-transcript/
+8. "I'm still waiting for that check. Did it get lost in the mail, I don't know." — NGA governors 2017 — https://singjupost.com/elon-musk-interview-2017-the-future-the-world-technology-transcript/
