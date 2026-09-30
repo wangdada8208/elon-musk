@@ -407,3 +407,15 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 6. "we just trademarked \"sexy\"." — Stanford ENCORE 2013 — https://singjupost.com/elon-musk-tesla-motors-ceo-36th-annual-encore-award-event-transcript/
 7. "I used to talk to, like dates about electric cars." — Stanford ENCORE 2013 — https://singjupost.com/elon-musk-tesla-motors-ceo-36th-annual-encore-award-event-transcript/
 8. "I'm still waiting for that check. Did it get lost in the mail, I don't know." — NGA governors 2017 — https://singjupost.com/elon-musk-interview-2017-the-future-the-world-technology-transcript/
+
+
+## Incremental 2026-10-01
+- **On-orbit tanking wordplay—“exchange fluids (there's certainly a joke in there somewhere)” and “reoxing rather than refuelling.”:** "dock, mate and exchange fluids (there's certainly a joke in there somewhere)." — IAC press Q&A 2016 — https://toaster.cc/2016/10/04/IAC_Press-Conf-Transcript/
+- **Dismisses government-money critics with blunt PayPal-era framing.:** "A common criticism is that somehow I’m after the government’s money by various arseholes out there, really, so…" — IAC press Q&A 2016 — https://toaster.cc/2016/10/04/IAC_Press-Conf-Transcript/
+- **Spacefaring vs Earth-only futures—moral sting in one sentence.:** "Basically I think you have to hate humanity if you don’t like that future." — IAC press Q&A 2016 — https://toaster.cc/2016/10/04/IAC_Press-Conf-Transcript/
+- **CHM Zip2 naming regret—self-deprecating “incredibly stupid.”:** "Terrible name." — CHM Evening with Elon 2013 — https://archive.computerhistory.org/resources/access/text/2014/03/102746849-05-01-acc.pdf
+- **Beach retirement horror—“worst… horrible… super-duper bored.”:** "lying on a beach as my main thing, just sounds like the worst-- that sounds horrible to me." — CHM Evening with Elon 2013 — https://archive.computerhistory.org/resources/access/text/2014/03/102746849-05-01-acc.pdf
+- **Climate “world’s dumbest experiment” + loading Russian roulette chambers—CHM 2013 wording.:** "It's the world's dumbest experiment." — CHM Evening with Elon 2013 — https://archive.computerhistory.org/resources/access/text/2014/03/102746849-05-01-acc.pdf
+- **Steve Jobs admiration but personal snub story—“super rude to me.”:** "I think Steve Jobs is way cooler than I am." — CHM Evening with Elon 2013 — https://archive.computerhistory.org/resources/access/text/2014/03/102746849-05-01-acc.pdf
+- **AI sandbox joke targeting Delta Wi‑Fi—concrete absurdist containment image.:** "Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!" — X 2026-09 — https://x.com/elonmusk/status/2105139959720014101
+- **Also sprach Zarathustra one-liner atop Starship Super Heavy post—operatic launch voice.:** "Also sprach Zarathustra" — X 2026-09 — https://x.com/elonmusk/status/2105107252529013032
