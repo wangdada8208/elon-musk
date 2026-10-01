@@ -191,3 +191,6 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **X: new Roadster demo postponed two weeks due to high winds.:** "Due to high winds, the new Roadster demo is postponed by 2 weeks" — X 2026-09 — https://x.com/elonmusk/status/2105090209897500828
 - **X: Grok 4.7 rank 1 on AA cyber index (same post window as Roadster delay).:** "Grok 4.7 rank 1 on AA cyber index" — X 2026-09 — https://x.com/elonmusk/status/2105088792139014331
 - **CHM weekly commute pattern—Mon/Thu–Fri SpaceX Hawthorne, Tue–Wed Bay Area Tesla (evolved to include weekend Tesla/SpaceX splits).:** "I'll be working at SpaceX on Monday. And then, Monday night fly to Bay Area" — CHM Evening with Elon 2013 — https://archive.computerhistory.org/resources/access/text/2014/03/102746849-05-01-acc.pdf
+
+## Incremental 2026-10-02
+- **Claimed Star Mind spacecraft power budget: >250 kW solar per vehicle (~20% more than ISS), illustrating orbital compute-scale intent.:** "have over 250kW of solar power" — X 2026-10 — https://x.com/elonmusk/status/2105718806769512812

@@ -419,3 +419,10 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 - **Steve Jobs admiration but personal snub story—“super rude to me.”:** "I think Steve Jobs is way cooler than I am." — CHM Evening with Elon 2013 — https://archive.computerhistory.org/resources/access/text/2014/03/102746849-05-01-acc.pdf
 - **AI sandbox joke targeting Delta Wi‑Fi—concrete absurdist containment image.:** "Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!" — X 2026-09 — https://x.com/elonmusk/status/2105139959720014101
 - **Also sprach Zarathustra one-liner atop Starship Super Heavy post—operatic launch voice.:** "Also sprach Zarathustra" — X 2026-09 — https://x.com/elonmusk/status/2105107252529013032
+
+## Incremental 2026-10-02
+- **Uses a bodily metaphor for civilization ossifying under accumulated rules.:** "hardening of the arteries of civilization" — SXSW 2018 — https://lilys.ai/ko/notes/80621
+- **Dismisses complacent “AI expert” takes by attacking expert overconfidence rather than their specific arguments.:** "the biggest issue I see with so-called AI experts is that they think they know more than they do" — SXSW 2018 — https://lilys.ai/ko/notes/80621
+- **Uses a vivid historical-progression jab to shame technological stagnation.:** "Korolev is probably turning in his grave right now" — SATELLITE 2020 — https://gist.github.com/theinternetftw/02cef17d21ede6a59ec5001704b65880
+- **Reduces the autonomy adoption thesis to a blunt “killer app” test.:** "anyone who can buy the car will buy the car. End of story." — Tesla Q3 2025 — https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/
+- **Anthropomorphizes autonomy progress with a concrete image.:** "This car will feel like it is a living creature." — Tesla Q3 2025 — https://www.fool.com/earnings/call-transcripts/2025/10/22/tesla-tsla-q3-2025-earnings-call-transcript/
