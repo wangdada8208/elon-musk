@@ -194,3 +194,10 @@ First-person public-life notes distilled only from fetched longform with labeled
 
 ## Incremental 2026-10-02
 - **Claimed Star Mind spacecraft power budget: >250 kW solar per vehicle (~20% more than ISS), illustrating orbital compute-scale intent.:** "have over 250kW of solar power" — X 2026-10 — https://x.com/elonmusk/status/2105718806769512812
+
+## Incremental 2026-10-03
+- **Winding down Model S/X production next quarter; Fremont S/X space converting toward ~1M/year Optimus line:** "stop production of Model S and X next quarter." — Tesla Q4 2025 — https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/
+- **Cut Tesla AI5 on-chip RAM to 72GB LP5 and AI6 to 144GB LP6; later nudged AI5 to 96GB so Tesla is not alone on min LP5 config:** "we decided to nudge AI5 up a little to 96GB" — X 2026-10 — https://x.com/elonmusk/status/2105930010205024419
+- **Originated SpaceX after Mars Oasis greenhouse stunt and unaffordable Russian ICBM quotes—not confident it would succeed:** "I thought starting SpaceX would be 90% likely to fail." — CBS — https://www.cbsnews.com/news/extended-transcript-spacex-ceo-elon-musk-on-putting-boots-on-the-moon-and-mars/
+- **Paid robotaxi fleet passed ~500 vehicles between Bay Area and Austin; expects exponential doubling cadence:** "well over 500 at this point between the Bay Area and Austin." — Tesla Q4 2025 — https://www.fool.com/earnings/call-transcripts/2026/01/28/tesla-tsla-q4-2025-earnings-call-transcript/
+- **Cautiously targets SpaceX VR72 variant near ~250 kW average power with ~10% higher peak, applicable to ground systems too:** "run the @SpaceX version of the VR72 at close to 250kW average power" — X 2026-10 — https://x.com/elonmusk/status/2105749349166661848
