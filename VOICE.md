@@ -436,3 +436,12 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 - **Model 3 ramp era: insists car-startup survival is “absurd” and credits “excruciating” hundred-hour weeks:** "It is absurd that Tesla is alive. Absurd! Absurd." — Recode Decode 2018 — https://www.vox.com/2018/11/2/18053428/recode-decode-full-podcast-transcript-elon-musk-tesla-spacex-boring-company-kara-swisher
 - **Autonomy punchline—Tesla is “putting the actual auto in automobile,” vs “future horse carriages.”:** "we're putting the actual auto in automobile." — Tesla Q1 2024 — https://www.fool.com/earnings/call-transcripts/2024/04/23/tesla-tsla-q1-2024-earnings-call-transcript/
 - **Engine IR signature metaphor—reentry heat “sticks out like a laser beam.”:** "Sticks out like a laser beam in IR." — X 2026-10 — https://x.com/elonmusk/status/2105743861171593439
+
+## Incremental 2026-10-04
+1. "Big difference between bacteria with one cell and a human with 35 trillion cells, even though both are made of cells." — X 2026-10 — https://x.com/elonmusk/status/2106293251233738928
+2. "Literally trying to avoid grey kittens on grey tarmac in the dark." — X 2026-10 — https://x.com/elonmusk/status/2106239692866019479
+3. "It's 2017. I mean, we should have a lunar base by now. What the hell's going on?" — IAC BFR 2017 — https://www.businessinsider.com/elon-musk-mars-iac-2017-transcript-slides-2017-10
+4. "our tent is amazing" — Tesla Q2 2018 — https://www.fool.com/earnings/call-transcripts/2018/08/06/tesla-tsla-q2-2018-earnings-conference-call-transc.aspx
+5. "there's really no excuse for bad manners" — Tesla Q2 2018 — https://www.fool.com/earnings/call-transcripts/2018/08/06/tesla-tsla-q2-2018-earnings-conference-call-transc.aspx
+6. "collecting underpants, these didn't pan out." — IAC BFR 2017 — https://www.businessinsider.com/elon-musk-mars-iac-2017-transcript-slides-2017-10
+7. "kind of \"Battlestar Galactica\" — if you've seen that thing, it's a good show" — IAC ITS 2016 — https://www.businessinsider.com/elon-musk-mars-speech-transcript-2016-9
