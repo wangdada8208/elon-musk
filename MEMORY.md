@@ -207,3 +207,8 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **Late June 2018 production peak ~7,000 S/3/X in one week; ~5k Model 3/week sustained into July:** "producing 7,000 Model 3, Model S, and Model X vehicles in the last week of June." — Tesla Q2 2018 — https://www.fool.com/earnings/call-transcripts/2018/08/06/tesla-tsla-q2-2018-earnings-conference-call-transc.aspx
 - **IAC 2017 Adelaide BFR update—construction underway; Moon/Mars/Earth missions sketched:** "we've already started building the system." — IAC BFR 2017 — https://www.businessinsider.com/elon-musk-mars-iac-2017-transcript-slides-2017-10
 - **Robotaxi hours 10pm→11pm (Oct 2026) while tuning night pet detection:** "Robotaxi operating hours moved from 10pm to 11pm." — X 2026-10 — https://x.com/elonmusk/status/2106239692866019479
+
+## Incremental 2026-10-05
+- **SpaceX began as a NASA-budget stunt (Mars Oasis greenhouse headline) before he concluded will was not the bottleneck—cost of access was:** "sending a small greenhouse to the surface of Mars called the Mars Oasis mission." — StarTalk 2015 — https://elonmuskarchive.org/video/startalk-with-neil-degrasse-tyson-2015-11-06
+- **Teenage survival baseline: he once lived on about $1/day food in Canada to prove he could subsist cheaply before taking entrepreneurial risk:** "I tried to live on $1 a day, which I was able to do." — StarTalk 2015 — https://elonmuskarchive.org/video/startalk-with-neil-degrasse-tyson-2015-11-06
+- **Q4 2018 internal Shanghai + Model Y capex target: well under half of Model 3 spend per unit (maybe ~¼ internally):** "definitely less than half." — Tesla Q4 2018 — https://www.fool.com/earnings/call-transcripts/2019/01/31/tesla-tsla-q4-2018-earnings-conference-call-transc.aspx

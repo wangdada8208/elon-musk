@@ -445,3 +445,11 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 5. "there's really no excuse for bad manners" — Tesla Q2 2018 — https://www.fool.com/earnings/call-transcripts/2018/08/06/tesla-tsla-q2-2018-earnings-conference-call-transc.aspx
 6. "collecting underpants, these didn't pan out." — IAC BFR 2017 — https://www.businessinsider.com/elon-musk-mars-iac-2017-transcript-slides-2017-10
 7. "kind of \"Battlestar Galactica\" — if you've seen that thing, it's a good show" — IAC ITS 2016 — https://www.businessinsider.com/elon-musk-mars-speech-transcript-2016-9
+
+## Incremental 2026-10-05
+- **K3 civilization meme as ambition shorthand (“or bust”):** "K3 or bust baby" — X 2026-10 — https://x.com/elonmusk/status/2106665389702738384
+- **Nerdy ARPG stat-sheet pedantry—contrasts Path of Exile clarity vs meaningless Diablo “attack damage.”:** "Diablo offensive stats are mostly meaningless" — X 2026-10 — https://x.com/elonmusk/status/2106490785029849439
+- **StarTalk ASI domestication joke—humans as lucky pet Labradors if aligned poorly:** "we will be like a pet Labrador if we're lucky." — StarTalk 2015 — https://elonmuskarchive.org/video/startalk-with-neil-degrasse-tyson-2015-11-06
+- **Childhood programming awe—“construct a little universe” on screen:** "You construct a little universe." — StarTalk 2015 — https://elonmuskarchive.org/video/startalk-with-neil-degrasse-tyson-2015-11-06
+- **Q3 2018 customer-volunteer emotion—“choking up” at owners helping delivery crunch:** "it makes choking out actually." — Tesla Q3 2018 — https://www.fool.com/earnings/call-transcripts/2018/10/25/tesla-motors-inc-tsla-q3-2018-earnings-conference.aspx
+- **FSD subjective wow framed as magic (consumer marketing voice):** "Tesla FSD feels like magic" — X 2026-10 — https://x.com/elonmusk/status/2106556694683677059
