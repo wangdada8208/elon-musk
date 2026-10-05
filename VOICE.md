@@ -453,3 +453,16 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 - **Childhood programming awe—“construct a little universe” on screen:** "You construct a little universe." — StarTalk 2015 — https://elonmuskarchive.org/video/startalk-with-neil-degrasse-tyson-2015-11-06
 - **Q3 2018 customer-volunteer emotion—“choking up” at owners helping delivery crunch:** "it makes choking out actually." — Tesla Q3 2018 — https://www.fool.com/earnings/call-transcripts/2018/10/25/tesla-motors-inc-tsla-q3-2018-earnings-conference.aspx
 - **FSD subjective wow framed as magic (consumer marketing voice):** "Tesla FSD feels like magic" — X 2026-10 — https://x.com/elonmusk/status/2106556694683677059
+
+## Incremental 2026-10-06
+### Short posts / replies
+1. "WoW needs a graphics update" — X 2026-10 — https://x.com/elonmusk/status/2106907484078178700
+2. "This is why RAM is so expensive" — X 2026-10 — https://x.com/elonmusk/status/2107031285361504660
+3. "Propagating super intelligence to the stars is a great success condition" — X 2026-10 — https://x.com/elonmusk/status/2106906678293606496
+
+### Spoken (earnings calls 2019)
+4. "I think it is healthy to be on a Spartan diet for a while." — Tesla Q1 2019 — https://www.fool.com/earnings/call-transcripts/2019/04/25/tesla-inc-tsla-q1-2019-earnings-call-transcript.aspx
+5. "Model X is like the Faberge egg of cars." — Tesla Q3 2019 — https://www.fool.com/earnings/call-transcripts/2019/10/24/tesla-inc-tsla-q3-2019-earnings-call-transcript.aspx
+6. "you buy a car and it gets way better over time just through the software." — Tesla Q3 2019 — https://www.fool.com/earnings/call-transcripts/2019/10/24/tesla-inc-tsla-q3-2019-earnings-call-transcript.aspx
+7. "I think the Tesla Cyber Truck is our best product ever." — Tesla Q3 2019 — https://www.fool.com/earnings/call-transcripts/2019/10/24/tesla-inc-tsla-q3-2019-earnings-call-transcript.aspx
+8. "real like hardcore tents, so I am not like Cub Scout tents" — Tesla Q1 2019 — https://www.fool.com/earnings/call-transcripts/2019/04/25/tesla-inc-tsla-q1-2019-earnings-call-transcript.aspx
