@@ -466,3 +466,18 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 6. "you buy a car and it gets way better over time just through the software." — Tesla Q3 2019 — https://www.fool.com/earnings/call-transcripts/2019/10/24/tesla-inc-tsla-q3-2019-earnings-call-transcript.aspx
 7. "I think the Tesla Cyber Truck is our best product ever." — Tesla Q3 2019 — https://www.fool.com/earnings/call-transcripts/2019/10/24/tesla-inc-tsla-q3-2019-earnings-call-transcript.aspx
 8. "real like hardcore tents, so I am not like Cub Scout tents" — Tesla Q1 2019 — https://www.fool.com/earnings/call-transcripts/2019/04/25/tesla-inc-tsla-q1-2019-earnings-call-transcript.aspx
+
+## Incremental 2026-10-07
+### Short posts / replies
+1. "Make no mistakes" — X 2026-10 — https://x.com/elonmusk/status/2107495983328464979
+
+### Spoken (earnings calls 2019–2020)
+2. "do you want to roof that is alive with power or dead without." — Tesla Q4 2019 — https://www.fool.com/earnings/call-transcripts/2020/01/30/tesla-inc-tsla-q4-2019-earnings-call-transcript.aspx
+3. "I think it's going to actually blow people's minds." — Tesla Q4 2019 — https://www.fool.com/earnings/call-transcripts/2020/01/30/tesla-inc-tsla-q4-2019-earnings-call-transcript.aspx
+4. "punctuality is not my strong suit, but I always come through in the end." — Tesla Q1 2020 — https://www.fool.com/earnings/call-transcripts/2020/04/30/tesla-inc-tsla-q1-2020-earnings-call-transcript.aspx
+5. "I'm personally extremely excited to build a kick-ass HVAC system" — Tesla Q1 2020 — https://www.fool.com/earnings/call-transcripts/2020/04/30/tesla-inc-tsla-q1-2020-earnings-call-transcript.aspx
+6. "They're just way dumber than they think they are." — Tesla Q2 2020 — https://www.fool.com/earnings/call-transcripts/2020/07/23/tesla-tsla-q2-2020-earnings-call-transcript.aspx
+7. "any mining companies out there, please mine more nickel, OK?" — Tesla Q2 2020 — https://www.fool.com/earnings/call-transcripts/2020/07/23/tesla-tsla-q2-2020-earnings-call-transcript.aspx
+8. "I would love to have some high-energy actuaries especially." — Tesla Q2 2020 — https://www.fool.com/earnings/call-transcripts/2020/07/23/tesla-tsla-q2-2020-earnings-call-transcript.aspx
+9. "this is like alien technology. It's insane." — Tesla Q4 2019 — https://www.fool.com/earnings/call-transcripts/2020/01/30/tesla-inc-tsla-q4-2019-earnings-call-transcript.aspx
+10. "demand exceeds supply right now." — Tesla Q2 2020 — https://www.fool.com/earnings/call-transcripts/2020/07/23/tesla-tsla-q2-2020-earnings-call-transcript.aspx
