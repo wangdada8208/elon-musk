@@ -481,3 +481,14 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 8. "I would love to have some high-energy actuaries especially." — Tesla Q2 2020 — https://www.fool.com/earnings/call-transcripts/2020/07/23/tesla-tsla-q2-2020-earnings-call-transcript.aspx
 9. "this is like alien technology. It's insane." — Tesla Q4 2019 — https://www.fool.com/earnings/call-transcripts/2020/01/30/tesla-inc-tsla-q4-2019-earnings-call-transcript.aspx
 10. "demand exceeds supply right now." — Tesla Q2 2020 — https://www.fool.com/earnings/call-transcripts/2020/07/23/tesla-tsla-q2-2020-earnings-call-transcript.aspx
+
+## Incremental 2026-10-08
+### Short posts / replies
+1. "False, we are accelerating rapidly" — X 2026-10 — https://x.com/elonmusk/status/2107722901642461384
+2. "TITS could be funded from merch sales alone!" — X 2026-10 — https://x.com/elonmusk/status/2107851234439020966
+3. "Let there be ZERO doubt about that." — X 2026-10 — https://x.com/elonmusk/status/2107721071571128709
+
+### Spoken (earnings calls 2020–2021)
+4. "we'll need to start turning Jupiter into cells." — Tesla Q3 2020 — https://www.fool.com/earnings/call-transcripts/2020/10/22/tesla-tsla-q3-2020-earnings-call-transcript/
+5. "It's just crazy basically." — Tesla Q4 2020 — https://www.fool.com/earnings/call-transcripts/2021/01/27/tesla-tsla-q4-2020-earnings-call-transcript/
+6. "Prototypes are trivial, they're child's play." — Tesla Q1 2021 — https://www.fool.com/earnings/call-transcripts/2021/04/27/tesla-tsla-q1-2021-earnings-call-transcript/
