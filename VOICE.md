@@ -492,3 +492,17 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 4. "we'll need to start turning Jupiter into cells." — Tesla Q3 2020 — https://www.fool.com/earnings/call-transcripts/2020/10/22/tesla-tsla-q3-2020-earnings-call-transcript/
 5. "It's just crazy basically." — Tesla Q4 2020 — https://www.fool.com/earnings/call-transcripts/2021/01/27/tesla-tsla-q4-2020-earnings-call-transcript/
 6. "Prototypes are trivial, they're child's play." — Tesla Q1 2021 — https://www.fool.com/earnings/call-transcripts/2021/04/27/tesla-tsla-q1-2021-earnings-call-transcript/
+
+## Incremental 2026-10-10
+### Short posts / replies
+1. "Moving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!" — X 2026-10 — https://x.com/elonmusk/status/2108321181602353333
+2. "Earth is a tiny dust mote in our solar system" — X 2026-10 — https://x.com/elonmusk/status/2108324979355848992
+3. "Using Grok @Bot is like hiring a super smart, hard-working person for peanuts" — X 2026-10 — https://x.com/elonmusk/status/2108396588544745887
+
+### Spoken (earnings calls 2021–2022)
+4. "prototypes are easy, and production is hard." — Tesla Q2 2021 — https://www.fool.com/earnings/call-transcripts/2021/07/27/tesla-tsla-q2-2021-earnings-call-transcript/
+5. "gets squashed like pizza dough, basically, but very hard pizza dough." — Tesla Q2 2021 — https://www.fool.com/earnings/call-transcripts/2021/07/27/tesla-tsla-q2-2021-earnings-call-transcript/
+6. "It's like you got to eat a lot of glass." — Tesla Q2 2021 — https://www.fool.com/earnings/call-transcripts/2021/07/27/tesla-tsla-q2-2021-earnings-call-transcript/
+7. "A factory is like a giant cybernetic collective." — Tesla Q2 2021 — https://www.fool.com/earnings/call-transcripts/2021/07/27/tesla-tsla-q2-2021-earnings-call-transcript/
+8. "there was a toilet paper shortage during COVID, and like, obviously, it wasn't really certainly a tremendous enhanced need for ass wiping." — Tesla Q4 2021 — https://www.fool.com/earnings/call-transcripts/2022/01/27/tesla-tsla-q4-2021-earnings-call-transcript/
+9. "Optimus name seems to be sticking at least internally, Optimus Subprime." — Tesla Q4 2021 — https://www.fool.com/earnings/call-transcripts/2022/01/27/tesla-tsla-q4-2021-earnings-call-transcript/
