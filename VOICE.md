@@ -506,3 +506,30 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 7. "A factory is like a giant cybernetic collective." — Tesla Q2 2021 — https://www.fool.com/earnings/call-transcripts/2021/07/27/tesla-tsla-q2-2021-earnings-call-transcript/
 8. "there was a toilet paper shortage during COVID, and like, obviously, it wasn't really certainly a tremendous enhanced need for ass wiping." — Tesla Q4 2021 — https://www.fool.com/earnings/call-transcripts/2022/01/27/tesla-tsla-q4-2021-earnings-call-transcript/
 9. "Optimus name seems to be sticking at least internally, Optimus Subprime." — Tesla Q4 2021 — https://www.fool.com/earnings/call-transcripts/2022/01/27/tesla-tsla-q4-2021-earnings-call-transcript/
+
+## Incremental 2026-10-13
+### Short posts / replies
+1. "No crying in the casino" — X 2026-10 — https://x.com/elonmusk/status/2109683050833465666
+2. "a super smart employee who works 24/7 and is extremely resourceful." — X 2026-10 — https://x.com/elonmusk/status/2109387553010851887
+3. "SpaceX is The Spacing Guild (but nicer)" — X 2026-10 — https://x.com/elonmusk/status/2108773857704448127
+4. "Stainless steel Cybertruck meets stainless steel rocket" — X 2026-10 — https://x.com/elonmusk/status/2109473185846395137
+5. "I stole the plan from @SouthPark" — X 2026-10 — https://x.com/elonmusk/status/2108767817390592266
+6. "Revenue growth is insane. Never seen anything like it." — X 2026-10 — https://x.com/elonmusk/status/2108721948184437065
+
+### Spoken (earnings calls 2022)
+7. "professionals talk about logistics when it comes to war." — Tesla Q1 2022 — https://www.rev.com/transcripts/tesla-q1-earnings-call-2022-transcript
+8. "you order a burger and you have to wait three hours" — Tesla Q2 2022 — https://www.fool.com/earnings/call-transcripts/2022/07/21/tesla-tsla-q2-2022-earnings-call-transcript/
+9. "you asymptotically approach this platonic ideal." — Tesla Q2 2022 — https://www.fool.com/earnings/call-transcripts/2022/07/21/tesla-tsla-q2-2022-earnings-call-transcript/
+
+## Incremental 2026-10-14
+### Short posts / replies
+1. "Vastly more powerful and effective than a press release." — X 2026-10 — https://x.com/elonmusk/status/2110077948384735481
+2. "Funny thing is that I hardly ever drink alcohol!" — X 2026-10 — https://x.com/elonmusk/status/2110082016838328713
+3. "Fix coming within a few days" — X 2026-10 — https://x.com/elonmusk/status/2109818506707693767
+
+### Spoken (earnings calls 2022–2023)
+4. "I don't know what the hell's going on, I'd be totally frank." — Tesla Q2 2023 — https://www.fool.com/earnings/call-transcripts/2023/07/19/tesla-tsla-q2-2023-earnings-call-transcript/
+5. "Now, I know I'm the boy who cried FSD, but man, I think" — Tesla Q2 2023 — https://www.fool.com/earnings/call-transcripts/2023/07/19/tesla-tsla-q2-2023-earnings-call-transcript/
+6. "It's like Game of Thrones for pennies." — Tesla Q2 2023 — https://www.fool.com/earnings/call-transcripts/2023/07/19/tesla-tsla-q2-2023-earnings-call-transcript/
+7. "it does feel like digging a tunnel with a spoon at times. Very much escaping prison." — Tesla Q3 2023 — https://www.fool.com/earnings/call-transcripts/2023/10/18/tesla-tsla-q3-2023-earnings-call-transcript/
+8. "we dug our own grave with the Cybertruck." — Tesla Q3 2023 — https://www.fool.com/earnings/call-transcripts/2023/10/18/tesla-tsla-q3-2023-earnings-call-transcript/

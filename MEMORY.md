@@ -237,3 +237,10 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **Robin Ren was his UPenn physics classmate; they road-tripped Philadelphia to Palo Alto after graduation toward Stanford grad school:** "was my physics classmate at UPenn. We road-tripped together from Philadelphia to Palo Alto after graduation," — X 2026-10 — https://x.com/elonmusk/status/2108328058457309492
 - **Identifies @dicksonlaw8 as his freshman college roommate from Hong Kong still living there:** "my freshman college roommate. He’s from and still lives in Hong Kong." — X 2026-10 — https://x.com/elonmusk/status/2108327546588721508
 - **Credits employees of SpaceX, Tesla, Neuralink, and Boring Company for any outcomes attributed to him:** "Thank you on behalf of the amazing people of SpaceX, Tesla, Neuralink and Boring Company, without whom anything I have done would have been impossible" — X 2026-10 — https://x.com/elonmusk/status/2108225043419574573
+
+## Incremental 2026-10-13
+- **Digital Optimus already plays partway through Diablo and other fast games by watching the screen human-style:** "just by looking at the screen like a human." — X 2026-10 — https://x.com/elonmusk/status/2108823477071303109
+- **First production Tesla Semis to PepsiCo handover set for December 1, 2022, with ramp through 2023:** "handing over our first production Tesla Semis to Pepsi on December 1." — Tesla Q3 2022 — https://www.fool.com/earnings/call-transcripts/2022/10/20/tesla-tsla-q3-2022-earnings-call-transcript/
+
+## Incremental 2026-10-14
+- **Charlie Kuehmann joined because he could work across both Tesla and SpaceX materials science—not Tesla alone:** "he got to work at both Tesla and SpaceX." — Tesla Q2 2023 — https://www.fool.com/earnings/call-transcripts/2023/07/19/tesla-tsla-q2-2023-earnings-call-transcript/
