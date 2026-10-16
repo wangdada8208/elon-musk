@@ -244,3 +244,10 @@ First-person public-life notes distilled only from fetched longform with labeled
 
 ## Incremental 2026-10-14
 - **Charlie Kuehmann joined because he could work across both Tesla and SpaceX materials science—not Tesla alone:** "he got to work at both Tesla and SpaceX." — Tesla Q2 2023 — https://www.fool.com/earnings/call-transcripts/2023/07/19/tesla-tsla-q2-2023-earnings-call-transcript/
+
+## Incremental 2026-10-16
+- **Model 3 production ramp was three years of hell and among the worst years of his life:** "Model 3 production was -- was three years of hell, honestly, before." — Tesla Q4 2023 — https://www.fool.com/earnings/call-transcripts/2024/01/24/tesla-tsla-q4-2023-earnings-call-transcript/
+- **Fremont was a derelict site when Tesla acquired it and became North America's highest-output car plant (560k cars in 2023):** "It was derelict when we -- when we got it, and now, it's the most productive plant" — Tesla Q4 2023 — https://www.fool.com/earnings/call-transcripts/2024/01/24/tesla-tsla-q4-2023-earnings-call-transcript/
+
+## Incremental 2026-10-17
+- **On this call he publicly named Peter Thiel as a close friend who lamented the lack of flying cars, teasing Roadster as a response:** "Peter was lamenting how the future doesn't have flying cars." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/

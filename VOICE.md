@@ -533,3 +533,27 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 6. "It's like Game of Thrones for pennies." — Tesla Q2 2023 — https://www.fool.com/earnings/call-transcripts/2023/07/19/tesla-tsla-q2-2023-earnings-call-transcript/
 7. "it does feel like digging a tunnel with a spoon at times. Very much escaping prison." — Tesla Q3 2023 — https://www.fool.com/earnings/call-transcripts/2023/10/18/tesla-tsla-q3-2023-earnings-call-transcript/
 8. "we dug our own grave with the Cybertruck." — Tesla Q3 2023 — https://www.fool.com/earnings/call-transcripts/2023/10/18/tesla-tsla-q3-2023-earnings-call-transcript/
+
+## Incremental 2026-10-16
+### Short posts / replies
+1. "Old friends are the best friends. Jensen rocks." — X 2026-10 — https://x.com/elonmusk/status/2110789964430786745
+2. "Let’s just say that this demo will be a BANGER, probably metaphorically, though some chance literally" — X 2026-10 — https://x.com/elonmusk/status/2110571266889646239
+3. "Because I play by the same rules as everyone else" — X 2026-10 — https://x.com/elonmusk/status/2110608365592232421
+4. "Maybe we should start a competitor to Amazon" — X 2026-10 — https://x.com/elonmusk/status/2110715556328579219
+5. "It’s like an escape room for trash" — X 2026-10 — https://x.com/elonmusk/status/2110364303069176140
+
+### Spoken (earnings calls 2023–2024)
+6. "Like instead of making a picture-sharing app, please, we’re trying, lithium, mining and refining, heavy industry, come on." — Tesla Q1 2023 — https://news.alphastreet.com/tesla-inc-tsla-q1-2023-earnings-call-transcript/
+7. "You can’t have too much luck in the rocket business, that’s for sure." — Tesla Q1 2023 — https://news.alphastreet.com/tesla-inc-tsla-q1-2023-earnings-call-transcript/
+8. "I’m not sure how many of you will appreciate the profundity of what I’ve just said" — Tesla Q1 2023 — https://news.alphastreet.com/tesla-inc-tsla-q1-2023-earnings-call-transcript/
+9. "I don't want to blow your minds, but I'm often optimistic regarding time." — Tesla Q4 2023 — https://www.fool.com/earnings/call-transcripts/2024/01/24/tesla-tsla-q4-2023-earnings-call-transcript/
+10. "I will be sleeping on the line practically. In fact, not practically; we will be." — Tesla Q4 2023 — https://www.fool.com/earnings/call-transcripts/2024/01/24/tesla-tsla-q4-2023-earnings-call-transcript/
+
+## Incremental 2026-10-17
+### Spoken (earnings calls 2023–2024)
+1. "As I said earlier, California loves regulation." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
+2. "Yeah, please fix me. And this is what's wrong." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
+3. "It's easy to drive and it hauls ass." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
+4. "The Cybertruck looks, thankfully, abnormal." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
+5. "I mean, that is just unvarnished, our internal estimate." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
+6. "there's not a lot of movies made about the heroes who got 20% of the cost out of a car." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
