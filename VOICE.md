@@ -557,3 +557,19 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 4. "The Cybertruck looks, thankfully, abnormal." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
 5. "I mean, that is just unvarnished, our internal estimate." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
 6. "there's not a lot of movies made about the heroes who got 20% of the cost out of a car." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
+
+## Incremental 2026-10-18
+### Short posts / replies
+1. "Yes! No more ads so ugly they make your eyes bleed." — X 2026-10 — https://x.com/elonmusk/status/2111313240420737438
+2. "Success is not certain, but excitement is" — X 2026-10 — https://x.com/elonmusk/status/2110895088138096988
+3. "Execution >> Money" — X 2026-10 — https://x.com/elonmusk/status/2110946528793911675
+4. "We will catch up" — X 2026-10 — https://x.com/elonmusk/status/2110831633846956275
+5. "Turns out the future does have flying cars" — X 2026-10 — https://x.com/elonmusk/status/2110913107094606330
+6. "No roads in space" — X 2026-10 — https://x.com/elonmusk/status/2111493318060511257
+
+### Spoken (earnings calls 2025)
+7. "there's a damn wolf this time and you can drive it." — Tesla Q4 2024 earnings — https://www.fool.com/earnings/call-transcripts/2025/01/29/tesla-tsla-q4-2024-earnings-call-transcript/
+8. "Insane. Not 50%, 500%. Yeah, big growth numbers." — Tesla Q4 2024 earnings — https://www.fool.com/earnings/call-transcripts/2025/01/29/tesla-tsla-q4-2024-earnings-call-transcript/
+9. "Yeah, you can run away from it basically." — Tesla Q1 2025 earnings — https://www.rev.com/transcripts/tesla-q1-2025-earnings-call
+10. "increase at a hyper-exponential rate." — Tesla Q2 2025 earnings — https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/
+11. "you've got a cat that can sing and dance" — Tesla Q2 2025 earnings — https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/

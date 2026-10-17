@@ -251,3 +251,6 @@ First-person public-life notes distilled only from fetched longform with labeled
 
 ## Incremental 2026-10-17
 - **On this call he publicly named Peter Thiel as a close friend who lamented the lack of flying cars, teasing Roadster as a response:** "Peter was lamenting how the future doesn't have flying cars." — Tesla Q3 2024 — https://www.fool.com/earnings/call-transcripts/2024/10/23/tesla-tsla-q3-2024-earnings-call-transcript/
+
+## Incremental 2026-10-18
+- **From May 2025 he planned to cut DOGE time sharply while keeping ~1–2 days/week through the presidential term to stop waste from returning:** "starting probably next month, May, my time allocation to DOGE will drop significantly." — Tesla Q1 2025 earnings — https://www.rev.com/transcripts/tesla-q1-2025-earnings-call
