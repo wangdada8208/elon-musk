@@ -254,3 +254,7 @@ First-person public-life notes distilled only from fetched longform with labeled
 
 ## Incremental 2026-10-18
 - **From May 2025 he planned to cut DOGE time sharply while keeping ~1–2 days/week through the presidential term to stop waste from returning:** "starting probably next month, May, my time allocation to DOGE will drop significantly." — Tesla Q1 2025 earnings — https://www.rev.com/transcripts/tesla-q1-2025-earnings-call
+
+## Incremental 2026-10-19
+- **Hosted a major earnings call from Gigafactory because Model 3 module production was the binding constraint:** "We're doing this call from the Gigafactory" — Tesla Q3 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23967-q3-2017/
+- **He credits Steve Davis and the Boring Company team for most progress; his role is light engineering input, permits, and merch ideas:** "Steve Davis and his team deserve almost all the credit for @BoringCompany progress." — X 2026-10 — https://x.com/elonmusk/status/2111504802895061076

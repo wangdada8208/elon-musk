@@ -573,3 +573,19 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 9. "Yeah, you can run away from it basically." — Tesla Q1 2025 earnings — https://www.rev.com/transcripts/tesla-q1-2025-earnings-call
 10. "increase at a hyper-exponential rate." — Tesla Q2 2025 earnings — https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/
 11. "you've got a cat that can sing and dance" — Tesla Q2 2025 earnings — https://www.fool.com/earnings/call-transcripts/2025/07/23/tesla-tsla-q2-2025-earnings-call-transcript/
+
+## Incremental 2026-10-19
+### Short posts / replies
+1. "Since fate maximizes for ironic entertainment, it was inevitable that the “Roadster” would be a flying car" — X 2026-10 — https://x.com/elonmusk/status/2111507692045148515
+2. "I fart in your general direction 💨" — X 2026-10 — https://x.com/elonmusk/status/2111829939624300698
+
+### Spoken (earnings calls 2017–2018)
+3. "We were in level 9. We're now in level 8" — Tesla Q3 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23967-q3-2017/
+4. "if you can see the robot move, it's too slow." — Tesla Q3 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23967-q3-2017/
+5. "Right. It's not artisanal." — Tesla Q4 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23966-q4-2017/
+6. "deeper level of hell than we expected." — Tesla Q4 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23966-q4-2017/
+7. "we can send a Roadster to the asteroid belt" — Tesla Q4 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23966-q4-2017/
+8. "Best in a class of one." — Tesla Q1 2018 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23958-q1-2018/
+9. "We've got barnacles on barnacles." — Tesla Q1 2018 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23958-q1-2018/
+10. "Boring bonehead questions are not cool. Next." — Tesla Q1 2018 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23958-q1-2018/
+11. "These questions are so dry they're killing me." — Tesla Q1 2018 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23958-q1-2018/
