@@ -603,3 +603,17 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 7. "reeled me back from the cliffs of insanity, much appreciated." — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
 8. "too clever for my own good there, because it's supposed to be the Model E." — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
 9. "I could be completely delusional, but I think I see a clear path" — Tesla Q1 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23969-q1-2017/
+
+## Incremental 2026-10-21
+### Short posts / replies
+1. "USB-C firmware is complex 😂" — X 2026-10 — https://x.com/elonmusk/status/2112374820264460351
+
+### Spoken (earnings calls 2016)
+2. "that's like 17 questions in one" — Tesla Q1 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23974-q1-2016/
+3. "was it obvious or impossible? It can't be both." — Tesla Q1 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23974-q1-2016/
+4. "Apple and Google do not manufacture things themselves." — Tesla Q1 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23974-q1-2016/
+5. "we were in production hell for the first six months" — Tesla Q2 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23973-q2-2016/
+6. "we just gotta build those damn things." — Tesla Q2 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23973-q2-2016/
+7. "Tesla can't sneeze without there being a national headline" — Tesla Q2 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23973-q2-2016/
+8. "Those are mouse nuts." — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
+9. "some supplier of ours dishing bullshit" — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/

@@ -242,3 +242,8 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - **Refuses to publish Model 3 reservation counts because outsiders over-interpret them and they are not operationally useful:** "We don't report that number because people read too much into it." — Tesla Q4 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23971-q4-2016/
 - **Treats granular S/X order-rate metrics as misleading for investors—production is planned to ~100k/yr regardless of weekly order noise:** "I don't think it's meaningful." — Tesla Q1 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23969-q1-2017/
 - **On AI risk he wants government insight into capabilities, not a straw-man halt to development:** "Insight is different from oversight" — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
+
+## Incremental 2026-10-21
+- **Major autonomy hardware/software reveals stay off earnings calls:** "The earnings call is not the right time for that" — Tesla Q2 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23973-q2-2016/
+- **Will not treat Model 3 reservation count as a metric or promote future product over today’s S/X sales:** "this is not something we comment on" — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
+- **Will share autonomy safety data with competitors if it improves road safety:** "happy to share information with our competitors" — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
