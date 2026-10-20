@@ -589,3 +589,17 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 9. "We've got barnacles on barnacles." — Tesla Q1 2018 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23958-q1-2018/
 10. "Boring bonehead questions are not cool. Next." — Tesla Q1 2018 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23958-q1-2018/
 11. "These questions are so dry they're killing me." — Tesla Q1 2018 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23958-q1-2018/
+
+## Incremental 2026-10-20
+### Short posts / replies
+1. "Working on it" — X 2026-10 — https://x.com/elonmusk/status/2111900345639326195
+2. "Giant pyramid HQ would be 🔥🔥" — X 2026-10 — https://x.com/elonmusk/status/2112102044995653721
+
+### Spoken (earnings calls 2016–2017)
+3. "We anti-sell the Model 3." — Tesla Q4 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23971-q4-2016/
+4. "Parking is like one of my biggest nightmares." — Tesla Q4 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23971-q4-2016/
+5. "an hour and a half wait for the hamburger, do you really wanna encourage more people" — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
+6. "Otherwise, STF." — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
+7. "reeled me back from the cliffs of insanity, much appreciated." — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
+8. "too clever for my own good there, because it's supposed to be the Model E." — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
+9. "I could be completely delusional, but I think I see a clear path" — Tesla Q1 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23969-q1-2017/

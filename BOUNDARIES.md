@@ -237,3 +237,8 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - **Grok Bot should not read user data unless the user explicitly asks it to access something:** "It will not access anything unless asked specifically to do so" — X 2026-10 — https://x.com/elonmusk/status/2111505936451788974
 - **Typical user data is not valuable for model training; product improvement still needs some debugging visibility—and he admits limits ("no ESP"):** "your data is not actually useful for training, but we do need some way to debug issues" — X 2026-10 — https://x.com/elonmusk/status/2111638200280363146
 - **Sharing payment details with Grok Bot is framed as no sillier than handing a card to unknown restaurant staff:** "Seems a bit silly to hand your credit card to people you don’t know at a restaurant, but not to Grok Bot." — X 2026-10 — https://x.com/elonmusk/status/2111639287368462417
+
+## Incremental 2026-10-20
+- **Refuses to publish Model 3 reservation counts because outsiders over-interpret them and they are not operationally useful:** "We don't report that number because people read too much into it." — Tesla Q4 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23971-q4-2016/
+- **Treats granular S/X order-rate metrics as misleading for investors—production is planned to ~100k/yr regardless of weekly order noise:** "I don't think it's meaningful." — Tesla Q1 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23969-q1-2017/
+- **On AI risk he wants government insight into capabilities, not a straw-man halt to development:** "Insight is different from oversight" — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/

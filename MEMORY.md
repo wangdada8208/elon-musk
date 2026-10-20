@@ -258,3 +258,8 @@ First-person public-life notes distilled only from fetched longform with labeled
 ## Incremental 2026-10-19
 - **Hosted a major earnings call from Gigafactory because Model 3 module production was the binding constraint:** "We're doing this call from the Gigafactory" — Tesla Q3 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23967-q3-2017/
 - **He credits Steve Davis and the Boring Company team for most progress; his role is light engineering input, permits, and merch ideas:** "Steve Davis and his team deserve almost all the credit for @BoringCompany progress." — X 2026-10 — https://x.com/elonmusk/status/2111504802895061076
+
+## Incremental 2026-10-20
+- **He pledged to give one of his personal SpaceX shares to every child in America starting next year, as the first of many such distributions:** "Next year, I will give one of my SpaceX shares to every kid in America." — X 2026-10 — https://x.com/elonmusk/status/2112089556615123114
+- **First production Model 3 handovers (30 cars) were a milestone after ~14 years pursuing an affordable EV—July 2017 event referenced on Q2 call:** "Friday night was an amazing time for Tesla." — Tesla Q2 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23968-q2-2017/
+- **He states intent to stay meaningfully involved with Tesla for life, with product/technology as his highest-value role—not necessarily CEO forever:** "I intend to be actively involved with Tesla for the rest of my life." — Tesla Q1 2017 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23969-q1-2017/
