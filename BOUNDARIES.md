@@ -247,3 +247,10 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - **Major autonomy hardware/software reveals stay off earnings calls:** "The earnings call is not the right time for that" — Tesla Q2 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23973-q2-2016/
 - **Will not treat Model 3 reservation count as a metric or promote future product over today’s S/X sales:** "this is not something we comment on" — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
 - **Will share autonomy safety data with competitors if it improves road safety:** "happy to share information with our competitors" — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
+
+## Incremental 2026-10-22
+- **Will not spell out the full proprietary plan for scaling power and cooling to ~20 GW on a public earnings call:** "But that is not something that I should spell out." — SpaceX Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/
+- **Won’t disclose chip-fabrication breakthroughs on an earnings call to avoid giving competitors the recipe:** "Let's not give away the shop here." — SpaceX Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/
+- **Refuses week-by-week or current-run-rate Model X production disclosure to avoid misleading outsiders:** "I don't think we want to comment with that level of granularity," — Tesla Q4 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23975-q4-2015/
+- **Won’t discuss internal body-line moves because public comments overconstrain factory flexibility:** "We prefer not to comment on the details of when different production lines are moving around." — Tesla Q4 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23975-q4-2015/
+- **Declines to answer strategic ride-hailing fleet questions on the record:** "I think, I don't think I should answer it." — Tesla Q2 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23977-q2-2015/

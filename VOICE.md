@@ -617,3 +617,11 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 7. "Tesla can't sneeze without there being a national headline" — Tesla Q2 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23973-q2-2016/
 8. "Those are mouse nuts." — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
 9. "some supplier of ours dishing bullshit" — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
+
+## Incremental 2026-10-22
+### Spoken (earnings calls: SpaceX Q3 2026, Tesla 2015)
+1. "Yes, I don't want to give Bret a heart attack." — SpaceX Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/
+2. "they actually have no cheese." — SpaceX Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/
+3. "It's kind of like a fishing boat or something." — Tesla Q4 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23975-q4-2015/
+4. "it's much like the Autopilot in a plane where you turn the Autopilot on" — Tesla Q2 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23977-q2-2015/
+5. "winning needs to feel like winning, if that makes any sense." — Tesla Q2 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23977-q2-2015/

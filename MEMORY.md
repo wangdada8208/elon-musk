@@ -268,3 +268,6 @@ First-person public-life notes distilled only from fetched longform with labeled
 - **On this call Tesla advanced the corporate volume plan to ~500k units/year run rate in 2018 instead of 2020, driven by Model 3 demand:** "half million unit per year run rate in 2018 instead of 2020" — Tesla Q1 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23974-q1-2016/
 - **He framed Q3 2016 GAAP profitability as among Tesla’s best moments, with Q4 profitability expected excluding SBC:** "Definitely one of the best moments ever in Tesla" — Tesla Q3 2016 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23972-q3-2016/
 - **Rewriting the 𝕏 Android app was a major fix after years of a bad client:** "Rewriting the 𝕏 Android app was also a big deal. It was really bad for such a long time." — X 2026-10 — https://x.com/elonmusk/status/2112396145137946819
+
+## Incremental 2026-10-22
+- **He was personally spending much of his time in Memphis, often four days a week, bringing Colossus II online:** "often four days a week, night and day, just getting the Memphis Supercompute cluster Colossus II online." — SpaceX Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/
