@@ -625,3 +625,17 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 3. "It's kind of like a fishing boat or something." — Tesla Q4 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23975-q4-2015/
 4. "it's much like the Autopilot in a plane where you turn the Autopilot on" — Tesla Q2 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23977-q2-2015/
 5. "winning needs to feel like winning, if that makes any sense." — Tesla Q2 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23977-q2-2015/
+
+## Incremental 2026-10-23
+### Short posts / replies
+1. "Even if I am just a lucky charm, I’m damn good it 😂" — X 2026-10 — https://x.com/elonmusk/status/2113024676289012100
+2. "Fair enough, we will make it more entertaining next time" — X 2026-10 — https://x.com/elonmusk/status/2113112324886478890
+
+### Spoken (earnings calls: Tesla Q3 2026, Q1 2015, Q4 2014)
+3. "it looks like a rocket going to orbit basically is growing very fast" — Tesla Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/
+4. "they learn to wipe their own ass, which is a big milestone" — Tesla Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/
+5. "tap-dancing through a minefield there" — Tesla Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/
+6. "We're definitely, as I say, in Vegas betting on the come" — Tesla Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/
+7. "doesn't mean bullshit profitable. It means really profitable" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/
+8. "This feels a bit like Zeno's paradox here" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/
+9. "I'd love to figure out how to be less stupid about this in the future" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/

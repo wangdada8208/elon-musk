@@ -254,3 +254,7 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 - **Refuses week-by-week or current-run-rate Model X production disclosure to avoid misleading outsiders:** "I don't think we want to comment with that level of granularity," — Tesla Q4 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23975-q4-2015/
 - **Won’t discuss internal body-line moves because public comments overconstrain factory flexibility:** "We prefer not to comment on the details of when different production lines are moving around." — Tesla Q4 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23975-q4-2015/
 - **Declines to answer strategic ride-hailing fleet questions on the record:** "I think, I don't think I should answer it." — Tesla Q2 2015 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23977-q2-2015/
+
+## Incremental 2026-10-23
+- **Refuses flashy preprogrammed humanoid demos—will wait for a video of Optimus doing non-canned, believable tasks:** "a demo that you can believe what you see type of thing" — Tesla Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/
+- **No paid celebrity endorsements or discounts—prominent drivers paid full retail:** "We haven't paid anyone to pretend that they like our car" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/
