@@ -639,3 +639,15 @@ Blunt, compressed, meme-fluent. Mixes one-line verdicts ("Go woke, go broke"), d
 7. "doesn't mean bullshit profitable. It means really profitable" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/
 8. "This feels a bit like Zeno's paradox here" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/
 9. "I'd love to figure out how to be less stupid about this in the future" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/
+
+## Incremental 2026-10-24
+### Short posts / replies
+1. "Seriously, we made absurdly grandiose statements!" — X 2026-10 — https://x.com/elonmusk/status/2113679099088847195
+
+### Spoken (earnings calls: Tesla Q1–Q3 2014)
+2. "like nobody ever calls them. We call them up" — Tesla Q1 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23982-q1-2014/
+3. "He does attempt to kill me in "The Simpsons."" — Tesla Q2 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23981-q2-2014/
+4. "we try to convince them to buy the S. We anti-sell it." — Tesla Q2 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23981-q2-2014/
+5. "hardcore until our car is 10x better than any other car on the road." — Tesla Q2 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23981-q2-2014/
+6. "Talk is super cheap, yeah." — Tesla Q3 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23980-q3-2014/
+7. "please send us a sample cell. Okay. Don't send us PowerPoint, okay." — Tesla Q3 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23980-q3-2014/

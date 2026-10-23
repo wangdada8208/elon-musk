@@ -258,3 +258,8 @@ Refusals and limits grounded in public quotes — not invented soft policies.
 ## Incremental 2026-10-23
 - **Refuses flashy preprogrammed humanoid demos—will wait for a video of Optimus doing non-canned, believable tasks:** "a demo that you can believe what you see type of thing" — Tesla Q3 2026 earnings — https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/
 - **No paid celebrity endorsements or discounts—prominent drivers paid full retail:** "We haven't paid anyone to pretend that they like our car" — Tesla Q4 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23979-q4-2014/
+
+## Incremental 2026-10-24
+- **He will not forecast China JV or 50/50 partnership rules while Tesla is still building basic service and charging infrastructure:** "too early to make a prediction on that front" — Tesla Q1 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23982-q1-2014/
+- **Gigafactory incentive deals must be fair to both the state and Tesla—no predatory bargain hunting:** "Tesla is not going to go for a deal that is unfair to the state or unfair to Tesla." — Tesla Q2 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23981-q2-2014/
+- **Tesla will not publish monthly delivery figures because regional shipment batching misleads press into false demand narratives:** "assume deliveries are a proxy for demand, which is not the case" — Tesla Q3 2014 earnings — https://stockanalysis.com/stocks/tsla/transcripts/23980-q3-2014/
